@@ -9,8 +9,8 @@ class QuizScreen extends StatefulWidget {
 }
 
 class _QuizScreenState extends State<QuizScreen> {
-
   List<Question> allQuestions = [];
+  List<Question> filteredQuestions = []; // 🔥 NEW
   bool isLoading = true;
 
   String selectedCategory = "All";
@@ -18,7 +18,7 @@ class _QuizScreenState extends State<QuizScreen> {
   String? selectedOption;
 
   bool isAnswered = false; // 🔥 NEW
-  bool isCorrect = false;  // 🔥 NEW
+  bool isCorrect = false; // 🔥 NEW
 
   @override
   void initState() {
@@ -28,9 +28,27 @@ class _QuizScreenState extends State<QuizScreen> {
 
   void loadData() async {
     allQuestions = await QuestionService.loadQuestions();
+
+    prepareQuestions(); // 🔥 ADD THIS
+
     setState(() {
       isLoading = false;
     });
+  }
+
+  void prepareQuestions() {
+    // 🔥 NEW
+    if (selectedCategory == "All") {
+      filteredQuestions = List.from(allQuestions);
+    } else {
+      filteredQuestions = allQuestions
+          .where((q) => q.category == selectedCategory)
+          .toList();
+    }
+
+    filteredQuestions.shuffle(); // 🎯 RANDOMIZE ONCE
+
+    currentIndex = 0;
   }
 
   List<String> getCategories() {
@@ -40,32 +58,29 @@ class _QuizScreenState extends State<QuizScreen> {
   List<Question> getFilteredQuestions() {
     if (selectedCategory == "All") return allQuestions;
 
-    return allQuestions
-        .where((q) => q.category == selectedCategory)
-        .toList();
+    return allQuestions.where((q) => q.category == selectedCategory).toList();
   }
 
   @override
   Widget build(BuildContext context) {
-
     if (isLoading) {
-      return Scaffold(
-        body: Center(child: CircularProgressIndicator()),
-      );
+      return Scaffold(body: Center(child: CircularProgressIndicator()));
     }
 
-    final filtered = getFilteredQuestions();
-    final question = filtered[currentIndex];
+    if (filteredQuestions.isEmpty) {
+      return Scaffold(body: Center(child: Text("No questions available")));
+    }
+
+    if (currentIndex >= filteredQuestions.length) {
+      return Scaffold(body: Center(child: Text("Quiz Finished")));
+    }
+    final question = filteredQuestions[currentIndex];
 
     return Scaffold(
-      appBar: AppBar(
-        title: Text("Quiz App"),
-        backgroundColor: primaryBlue,
-      ),
+      appBar: AppBar(title: Text("Quiz App"), backgroundColor: primaryBlue),
 
       body: Column(
         children: [
-
           // 🔹 CATEGORY FILTER
           SizedBox(
             height: 50,
@@ -83,7 +98,9 @@ class _QuizScreenState extends State<QuizScreen> {
                         selectedCategory = cat;
                         currentIndex = 0;
                         selectedOption = null; // 🔥 NEW (reset)
-                        isAnswered = false;    // 🔥 NEW
+                        isAnswered = false; // 🔥 NEW
+
+                        prepareQuestions(); // 🔥 ADD THIS
                       });
                     },
                   ),
@@ -98,10 +115,7 @@ class _QuizScreenState extends State<QuizScreen> {
               padding: EdgeInsets.all(16),
               child: Column(
                 children: [
-                  Text(
-                    question.question,
-                    style: TextStyle(fontSize: 18),
-                  ),
+                  Text(question.question, style: TextStyle(fontSize: 18)),
                   SizedBox(height: 20),
 
                   ...question.options.map((opt) {
@@ -119,15 +133,14 @@ class _QuizScreenState extends State<QuizScreen> {
                         margin: EdgeInsets.symmetric(vertical: 6),
                         padding: EdgeInsets.all(14),
                         decoration: BoxDecoration(
-                          color: isAnswered // 🔄 UPDATED (color logic)
+                          color:
+                              isAnswered // 🔄 UPDATED (color logic)
                               ? (opt == question.answer
-                                  ? Colors.green
-                                  : (opt == selectedOption
-                                      ? Colors.red
-                                      : Colors.white))
-                              : (isSelected
-                                  ? primaryBlue
-                                  : Colors.white),
+                                    ? Colors.green
+                                    : (opt == selectedOption
+                                          ? Colors.red
+                                          : Colors.white))
+                              : (isSelected ? primaryBlue : Colors.white),
                           borderRadius: BorderRadius.circular(12),
                           border: Border.all(color: primaryBlue),
                         ),
@@ -138,10 +151,17 @@ class _QuizScreenState extends State<QuizScreen> {
                                 opt,
                                 style: TextStyle(
                                   color: isAnswered
-                                      ? Colors.white
+                                      ? (opt == question.answer
+                                            ? Colors
+                                                  .white // green bg
+                                            : (opt == selectedOption
+                                                  ? Colors
+                                                        .white // red bg
+                                                  : Colors
+                                                        .black)) // ❗ white bg → black text
                                       : (isSelected
-                                          ? Colors.white
-                                          : Colors.black),
+                                            ? Colors.white
+                                            : Colors.black),
                                 ),
                               ),
                             ),
@@ -188,9 +208,14 @@ class _QuizScreenState extends State<QuizScreen> {
                     ),
                     onPressed: () {
                       setState(() {
-                        currentIndex++;
-                        selectedOption = null;
-                        isAnswered = false;
+                        if (currentIndex < filteredQuestions.length - 1) {
+                          currentIndex++;
+                          selectedOption = null;
+                          isAnswered = false;
+                        } else {
+                          currentIndex =
+                              filteredQuestions.length; // show finished
+                        }
                       });
                     },
                     child: Text("Next"),
@@ -206,13 +231,12 @@ class _QuizScreenState extends State<QuizScreen> {
 
                       setState(() {
                         isAnswered = true;
-                        isCorrect =
-                            selectedOption == question.answer;
+                        isCorrect = selectedOption == question.answer;
                       });
                     },
                     child: Text("Confirm"),
                   ),
-          )
+          ),
         ],
       ),
     );
