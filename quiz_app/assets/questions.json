@@ -16186,5 +16186,4805 @@
         ],
         "answer": "Provide financial info",
         "category": "Accountancy"
+    },
+    {
+        "id": 1401,
+        "question": "What is the first principle of cooperatives?",
+        "options": [
+            "Voluntary membership",
+            "Profit maximization",
+            "Government control",
+            "Private ownership"
+        ],
+        "answer": "Voluntary membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1402,
+        "question": "What does voluntary membership mean?",
+        "options": [
+            "Open to all",
+            "Restricted entry",
+            "Only rich",
+            "Only farmers"
+        ],
+        "answer": "Open to all",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1403,
+        "question": "Which principle ensures equal voting rights?",
+        "options": [
+            "Democratic control",
+            "Profit sharing",
+            "Capital control",
+            "Ownership"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1404,
+        "question": "What is democratic control?",
+        "options": [
+            "One member one vote",
+            "More shares more power",
+            "Government decides",
+            "Manager decides"
+        ],
+        "answer": "One member one vote",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1405,
+        "question": "Which principle focuses on member contribution?",
+        "options": [
+            "Economic participation",
+            "Voluntary",
+            "Education",
+            "Autonomy"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1406,
+        "question": "What is member economic participation?",
+        "options": [
+            "Members contribute capital",
+            "Government funds",
+            "Loans only",
+            "No contribution"
+        ],
+        "answer": "Members contribute capital",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1407,
+        "question": "Which principle ensures independence?",
+        "options": [
+            "Autonomy and independence",
+            "Education",
+            "Cooperation",
+            "Concern"
+        ],
+        "answer": "Autonomy and independence",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1408,
+        "question": "What is autonomy?",
+        "options": [
+            "Self-governance",
+            "Government control",
+            "Private control",
+            "Foreign control"
+        ],
+        "answer": "Self-governance",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1409,
+        "question": "Which principle promotes knowledge?",
+        "options": [
+            "Education and training",
+            "Economic",
+            "Autonomy",
+            "Concern"
+        ],
+        "answer": "Education and training",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1410,
+        "question": "Who receives cooperative education?",
+        "options": [
+            "Members and staff",
+            "Only managers",
+            "Only government",
+            "Only customers"
+        ],
+        "answer": "Members and staff",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1411,
+        "question": "Which principle promotes unity among cooperatives?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Concern"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1412,
+        "question": "What is cooperation among cooperatives?",
+        "options": [
+            "Working together",
+            "Competing",
+            "Ignoring others",
+            "Selling assets"
+        ],
+        "answer": "Working together",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1413,
+        "question": "Which principle focuses on society welfare?",
+        "options": [
+            "Concern for community",
+            "Profit maximization",
+            "Private gain",
+            "Ownership"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1414,
+        "question": "What is concern for community?",
+        "options": [
+            "Community development",
+            "Profit growth",
+            "Share trading",
+            "Private benefit"
+        ],
+        "answer": "Community development",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1415,
+        "question": "Which principle ensures no discrimination?",
+        "options": [
+            "Open membership",
+            "Profit",
+            "Capital",
+            "Control"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1416,
+        "question": "What is open membership?",
+        "options": [
+            "No discrimination",
+            "Restricted entry",
+            "Limited entry",
+            "Paid entry"
+        ],
+        "answer": "No discrimination",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1417,
+        "question": "Which principle avoids external control?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1418,
+        "question": "Which principle ensures fairness?",
+        "options": [
+            "Democratic control",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1419,
+        "question": "Which principle focuses on sharing benefits?",
+        "options": [
+            "Economic participation",
+            "Education",
+            "Autonomy",
+            "Concern"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1420,
+        "question": "What is surplus in cooperatives?",
+        "options": [
+            "Excess income",
+            "Loss",
+            "Expense",
+            "Loan"
+        ],
+        "answer": "Excess income",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1421,
+        "question": "How is surplus distributed?",
+        "options": [
+            "Among members",
+            "Government",
+            "Managers",
+            "Investors"
+        ],
+        "answer": "Among members",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1422,
+        "question": "Which principle promotes self-help?",
+        "options": [
+            "Voluntary membership",
+            "Profit",
+            "Ownership",
+            "Control"
+        ],
+        "answer": "Voluntary membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1423,
+        "question": "Which principle promotes equality?",
+        "options": [
+            "Democratic control",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1424,
+        "question": "Which principle ensures training?",
+        "options": [
+            "Education",
+            "Profit",
+            "Capital",
+            "Control"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1425,
+        "question": "Which principle focuses on independence?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Community",
+            "Cooperation"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1426,
+        "question": "Which principle encourages collaboration?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1427,
+        "question": "Which principle helps society?",
+        "options": [
+            "Concern for community",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1428,
+        "question": "What is member control?",
+        "options": [
+            "Members manage",
+            "Government manages",
+            "Private manages",
+            "Managers control"
+        ],
+        "answer": "Members manage",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1429,
+        "question": "Which principle ensures equal opportunity?",
+        "options": [
+            "Open membership",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1430,
+        "question": "Which principle focuses on transparency?",
+        "options": [
+            "Democratic control",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1431,
+        "question": "Which principle ensures sustainability?",
+        "options": [
+            "Concern for community",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1432,
+        "question": "Which principle encourages learning?",
+        "options": [
+            "Education",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1433,
+        "question": "Which principle avoids monopoly?",
+        "options": [
+            "Open membership",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1434,
+        "question": "Which principle promotes unity?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1435,
+        "question": "Which principle ensures freedom?",
+        "options": [
+            "Autonomy",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1436,
+        "question": "Which principle promotes fairness in voting?",
+        "options": [
+            "Democratic control",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1437,
+        "question": "Which principle focuses on capital use?",
+        "options": [
+            "Economic participation",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1438,
+        "question": "Which principle focuses on skill development?",
+        "options": [
+            "Education",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1439,
+        "question": "Which principle promotes mutual help?",
+        "options": [
+            "Voluntary membership",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Voluntary membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1440,
+        "question": "Which principle strengthens cooperatives?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1441,
+        "question": "Which principle ensures local development?",
+        "options": [
+            "Concern for community",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1442,
+        "question": "Which principle promotes independence?",
+        "options": [
+            "Autonomy",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1443,
+        "question": "Which principle ensures active participation?",
+        "options": [
+            "Economic participation",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1444,
+        "question": "Which principle builds awareness?",
+        "options": [
+            "Education",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1445,
+        "question": "Which principle promotes inclusiveness?",
+        "options": [
+            "Open membership",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1446,
+        "question": "Which principle ensures equal rights?",
+        "options": [
+            "Democratic control",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1447,
+        "question": "Which principle promotes cooperation?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1448,
+        "question": "Which principle supports society?",
+        "options": [
+            "Concern for community",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1449,
+        "question": "Which principle focuses on ownership?",
+        "options": [
+            "Economic participation",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1450,
+        "question": "Which principle ensures voluntary joining?",
+        "options": [
+            "Voluntary membership",
+            "Profit",
+            "Capital",
+            "Ownership"
+        ],
+        "answer": "Voluntary membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1451,
+        "question": "Which principle ensures free entry and exit?",
+        "options": [
+            "Voluntary membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Voluntary membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1452,
+        "question": "Which principle promotes equality in decision making?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1453,
+        "question": "Which principle ensures members share profits?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1454,
+        "question": "Which principle avoids political interference?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1455,
+        "question": "Which principle improves member skills?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1456,
+        "question": "Which principle builds strong network among cooperatives?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1457,
+        "question": "Which principle supports social responsibility?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1458,
+        "question": "Which principle ensures no caste or religion bias?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1459,
+        "question": "Which principle ensures fair voting rights?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1460,
+        "question": "Which principle ensures capital contribution by members?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1461,
+        "question": "Which principle ensures independence from government?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1462,
+        "question": "Which principle spreads awareness among members?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1463,
+        "question": "Which principle encourages joint efforts?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1464,
+        "question": "Which principle focuses on local welfare?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1465,
+        "question": "Which principle ensures open access to all?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1466,
+        "question": "Which principle ensures equality among members?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1467,
+        "question": "Which principle allows sharing of surplus?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1468,
+        "question": "Which principle ensures freedom of operation?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1469,
+        "question": "Which principle builds knowledge base?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1470,
+        "question": "Which principle encourages unity among societies?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1471,
+        "question": "Which principle promotes sustainable development?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1472,
+        "question": "Which principle avoids discrimination?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1473,
+        "question": "Which principle ensures voting equality?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1474,
+        "question": "Which principle promotes financial involvement?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1475,
+        "question": "Which principle ensures self-reliance?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1476,
+        "question": "Which principle improves efficiency?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1477,
+        "question": "Which principle promotes inter-cooperation?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1478,
+        "question": "Which principle ensures social upliftment?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1479,
+        "question": "Which principle ensures inclusiveness?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1480,
+        "question": "Which principle ensures transparency?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1481,
+        "question": "Which principle ensures member investment?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1482,
+        "question": "Which principle avoids external domination?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1483,
+        "question": "Which principle develops leadership?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1484,
+        "question": "Which principle strengthens cooperation?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1485,
+        "question": "Which principle benefits society?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1486,
+        "question": "Which principle ensures openness?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1487,
+        "question": "Which principle ensures fairness?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1488,
+        "question": "Which principle ensures shared ownership?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1489,
+        "question": "Which principle ensures independence in decisions?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1490,
+        "question": "Which principle spreads knowledge?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1491,
+        "question": "Which principle promotes teamwork?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1492,
+        "question": "Which principle improves community welfare?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1493,
+        "question": "Which principle allows anyone to join?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1494,
+        "question": "Which principle ensures voting rights?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1495,
+        "question": "Which principle ensures financial contribution?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1496,
+        "question": "Which principle ensures independence?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1497,
+        "question": "Which principle promotes awareness?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1498,
+        "question": "Which principle promotes unity?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1499,
+        "question": "Which principle supports development?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1500,
+        "question": "Which principle ensures open access?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1501,
+        "question": "Which principle ensures voluntary and open membership?",
+        "options": [
+            "Voluntary membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Voluntary membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1502,
+        "question": "Which principle gives equal voting rights to members?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1503,
+        "question": "Which principle involves members contributing capital?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1504,
+        "question": "Which principle ensures self-governance of cooperatives?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1505,
+        "question": "Which principle focuses on training members?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1506,
+        "question": "Which principle promotes collaboration between cooperatives?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1507,
+        "question": "Which principle emphasizes community welfare?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1508,
+        "question": "Which principle allows anyone to join without discrimination?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1509,
+        "question": "Which principle ensures one member one vote?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1510,
+        "question": "Which principle ensures fair distribution of surplus?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1511,
+        "question": "Which principle ensures independence from external bodies?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1512,
+        "question": "Which principle builds awareness among members?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1513,
+        "question": "Which principle supports teamwork among cooperatives?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1514,
+        "question": "Which principle promotes local development?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1515,
+        "question": "Which principle ensures inclusiveness?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1516,
+        "question": "Which principle ensures equal participation in decisions?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1517,
+        "question": "Which principle ensures members invest capital?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1518,
+        "question": "Which principle ensures independence in operations?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1519,
+        "question": "Which principle enhances member skills?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1520,
+        "question": "Which principle strengthens unity among cooperatives?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1521,
+        "question": "Which principle promotes sustainable growth?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1522,
+        "question": "Which principle removes barriers to entry?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1523,
+        "question": "Which principle ensures voting equality?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1524,
+        "question": "Which principle ensures fair financial contribution?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1525,
+        "question": "Which principle ensures freedom from political interference?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1526,
+        "question": "Which principle develops leadership skills?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1527,
+        "question": "Which principle promotes interdependence?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1528,
+        "question": "Which principle focuses on social responsibility?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1529,
+        "question": "Which principle ensures fairness in membership?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1530,
+        "question": "Which principle ensures equal decision power?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1531,
+        "question": "Which principle ensures shared profits?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1532,
+        "question": "Which principle ensures independent functioning?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1533,
+        "question": "Which principle spreads knowledge?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1534,
+        "question": "Which principle builds unity?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1535,
+        "question": "Which principle supports community growth?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1536,
+        "question": "Which principle ensures free entry?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1537,
+        "question": "Which principle ensures fairness in governance?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1538,
+        "question": "Which principle ensures member contribution?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1539,
+        "question": "Which principle ensures operational freedom?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1540,
+        "question": "Which principle promotes education?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1541,
+        "question": "Which principle promotes joint action?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1542,
+        "question": "Which principle ensures welfare of society?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1543,
+        "question": "Which principle ensures equal access?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1544,
+        "question": "Which principle ensures democratic governance?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1545,
+        "question": "Which principle ensures fair profit sharing?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1546,
+        "question": "Which principle ensures independence in management?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1547,
+        "question": "Which principle improves awareness?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1548,
+        "question": "Which principle encourages collaboration?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1549,
+        "question": "Which principle ensures community benefit?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1550,
+        "question": "Which principle ensures equal membership rights?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1551,
+        "question": "Which principle allows voluntary exit from cooperatives?",
+        "options": [
+            "Voluntary membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Voluntary membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1552,
+        "question": "Which principle ensures equal say in decisions?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1553,
+        "question": "Which principle ensures members share both risk and reward?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1554,
+        "question": "Which principle protects cooperatives from outside influence?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1555,
+        "question": "Which principle focuses on continuous learning?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1556,
+        "question": "Which principle builds alliances among cooperatives?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1557,
+        "question": "Which principle ensures long-term community welfare?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1558,
+        "question": "Which principle ensures inclusivity regardless of background?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1559,
+        "question": "Which principle ensures transparent governance?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1560,
+        "question": "Which principle ensures proper use of member funds?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1561,
+        "question": "Which principle ensures freedom in decision making?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1562,
+        "question": "Which principle enhances member awareness?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1563,
+        "question": "Which principle promotes partnership among cooperatives?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1564,
+        "question": "Which principle contributes to social development?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1565,
+        "question": "Which principle ensures equal opportunity to join?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1566,
+        "question": "Which principle ensures fair participation?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1567,
+        "question": "Which principle ensures capital contribution responsibility?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1568,
+        "question": "Which principle ensures operational independence?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1569,
+        "question": "Which principle promotes skill enhancement?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1570,
+        "question": "Which principle builds strong cooperative networks?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1571,
+        "question": "Which principle ensures sustainable community growth?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1572,
+        "question": "Which principle removes membership barriers?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1573,
+        "question": "Which principle ensures equality in voting?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1574,
+        "question": "Which principle ensures fair contribution and returns?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1575,
+        "question": "Which principle ensures independence from politics?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1576,
+        "question": "Which principle promotes lifelong learning?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1577,
+        "question": "Which principle supports collaboration across cooperatives?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1578,
+        "question": "Which principle promotes welfare activities?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1579,
+        "question": "Which principle ensures open and fair membership?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1580,
+        "question": "Which principle ensures equal representation?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1581,
+        "question": "Which principle ensures member financial involvement?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1582,
+        "question": "Which principle ensures independent governance?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1583,
+        "question": "Which principle builds knowledge and awareness?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1584,
+        "question": "Which principle strengthens cooperative unity?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1585,
+        "question": "Which principle supports community progress?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1586,
+        "question": "Which principle ensures inclusive participation?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1587,
+        "question": "Which principle ensures fairness in decisions?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1588,
+        "question": "Which principle ensures shared ownership benefits?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1589,
+        "question": "Which principle ensures freedom in operations?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1590,
+        "question": "Which principle improves competence?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1591,
+        "question": "Which principle promotes collective strength?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1592,
+        "question": "Which principle promotes social responsibility?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1593,
+        "question": "Which principle ensures fairness in joining?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1594,
+        "question": "Which principle ensures equal control?",
+        "options": [
+            "Democratic control",
+            "Economic participation",
+            "Autonomy",
+            "Education"
+        ],
+        "answer": "Democratic control",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1595,
+        "question": "Which principle ensures financial responsibility?",
+        "options": [
+            "Economic participation",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Economic participation",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1596,
+        "question": "Which principle ensures independence from external pressure?",
+        "options": [
+            "Autonomy",
+            "Education",
+            "Cooperation",
+            "Community"
+        ],
+        "answer": "Autonomy",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1597,
+        "question": "Which principle enhances awareness and knowledge?",
+        "options": [
+            "Education",
+            "Autonomy",
+            "Community",
+            "Participation"
+        ],
+        "answer": "Education",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1598,
+        "question": "Which principle promotes inter-cooperative support?",
+        "options": [
+            "Cooperation among cooperatives",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Cooperation among cooperatives",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1599,
+        "question": "Which principle ensures development of society?",
+        "options": [
+            "Concern for community",
+            "Autonomy",
+            "Education",
+            "Participation"
+        ],
+        "answer": "Concern for community",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1600,
+        "question": "Which principle ensures equal opportunity for all members?",
+        "options": [
+            "Open membership",
+            "Autonomy",
+            "Education",
+            "Community"
+        ],
+        "answer": "Open membership",
+        "category": "Cooperative Principles"
+    },
+    {
+        "id": 1601,
+        "question": "In which year was the Cooperative Credit Societies Act passed in India?",
+        "options": [
+            "1904",
+            "1912",
+            "1947",
+            "1882"
+        ],
+        "answer": "1904",
+        "category": "History"
+    },
+    {
+        "id": 1602,
+        "question": "Who is known as the father of cooperative movement in India?",
+        "options": [
+            "Sir Frederick Nicholson",
+            "Mahatma Gandhi",
+            "RBI",
+            "Nehru"
+        ],
+        "answer": "Sir Frederick Nicholson",
+        "category": "History"
+    },
+    {
+        "id": 1603,
+        "question": "Which act expanded cooperative societies in India?",
+        "options": [
+            "Cooperative Societies Act 1912",
+            "RBI Act",
+            "Companies Act",
+            "Banking Act"
+        ],
+        "answer": "Cooperative Societies Act 1912",
+        "category": "History"
+    },
+    {
+        "id": 1604,
+        "question": "Which country started the modern cooperative movement?",
+        "options": [
+            "England",
+            "India",
+            "USA",
+            "Germany"
+        ],
+        "answer": "England",
+        "category": "History"
+    },
+    {
+        "id": 1605,
+        "question": "Who founded the Rochdale Society?",
+        "options": [
+            "Rochdale Pioneers",
+            "British Govt",
+            "Farmers",
+            "Traders"
+        ],
+        "answer": "Rochdale Pioneers",
+        "category": "History"
+    },
+    {
+        "id": 1606,
+        "question": "In which year was Rochdale Society formed?",
+        "options": [
+            "1844",
+            "1904",
+            "1912",
+            "1882"
+        ],
+        "answer": "1844",
+        "category": "History"
+    },
+    {
+        "id": 1607,
+        "question": "Where was Rochdale Society formed?",
+        "options": [
+            "England",
+            "India",
+            "USA",
+            "Germany"
+        ],
+        "answer": "England",
+        "category": "History"
+    },
+    {
+        "id": 1608,
+        "question": "Which committee recommended cooperatives in India?",
+        "options": [
+            "Nicholson Committee",
+            "Hilton Young",
+            "Narasimham",
+            "Kelkar"
+        ],
+        "answer": "Nicholson Committee",
+        "category": "History"
+    },
+    {
+        "id": 1609,
+        "question": "Which year did Nicholson report submit?",
+        "options": [
+            "1895",
+            "1904",
+            "1912",
+            "1947"
+        ],
+        "answer": "1895",
+        "category": "History"
+    },
+    {
+        "id": 1610,
+        "question": "Which act legalized cooperatives in India?",
+        "options": [
+            "1904 Act",
+            "1912 Act",
+            "RBI Act",
+            "Banking Act"
+        ],
+        "answer": "1904 Act",
+        "category": "History"
+    },
+    {
+        "id": 1611,
+        "question": "Which movement promoted rural credit?",
+        "options": [
+            "Cooperative movement",
+            "Green revolution",
+            "White revolution",
+            "Industrial"
+        ],
+        "answer": "Cooperative movement",
+        "category": "History"
+    },
+    {
+        "id": 1612,
+        "question": "Which institution supports cooperatives today?",
+        "options": [
+            "NABARD",
+            "SEBI",
+            "IRDAI",
+            "LIC"
+        ],
+        "answer": "NABARD",
+        "category": "History"
+    },
+    {
+        "id": 1613,
+        "question": "When was NABARD established?",
+        "options": [
+            "1982",
+            "1947",
+            "1969",
+            "1991"
+        ],
+        "answer": "1982",
+        "category": "History"
+    },
+    {
+        "id": 1614,
+        "question": "Which act governs cooperative banks?",
+        "options": [
+            "Banking Regulation Act",
+            "Companies Act",
+            "RBI Act",
+            "SEBI Act"
+        ],
+        "answer": "Banking Regulation Act",
+        "category": "History"
+    },
+    {
+        "id": 1615,
+        "question": "When was RBI established?",
+        "options": [
+            "1935",
+            "1947",
+            "1904",
+            "1912"
+        ],
+        "answer": "1935",
+        "category": "History"
+    },
+    {
+        "id": 1616,
+        "question": "Who controls cooperative banks?",
+        "options": [
+            "RBI",
+            "SEBI",
+            "IRDAI",
+            "LIC"
+        ],
+        "answer": "RBI",
+        "category": "History"
+    },
+    {
+        "id": 1617,
+        "question": "Which year was Banking Regulation Act passed?",
+        "options": [
+            "1949",
+            "1935",
+            "1912",
+            "1904"
+        ],
+        "answer": "1949",
+        "category": "History"
+    },
+    {
+        "id": 1618,
+        "question": "Which revolution is linked to milk cooperatives?",
+        "options": [
+            "White Revolution",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "answer": "White Revolution",
+        "category": "History"
+    },
+    {
+        "id": 1619,
+        "question": "Who is father of White Revolution?",
+        "options": [
+            "Verghese Kurien",
+            "Gandhi",
+            "Nehru",
+            "Ambedkar"
+        ],
+        "answer": "Verghese Kurien",
+        "category": "History"
+    },
+    {
+        "id": 1620,
+        "question": "Which organization led White Revolution?",
+        "options": [
+            "Amul",
+            "SEBI",
+            "RBI",
+            "LIC"
+        ],
+        "answer": "Amul",
+        "category": "History"
+    },
+    {
+        "id": 1621,
+        "question": "Where is Amul based?",
+        "options": [
+            "Gujarat",
+            "Delhi",
+            "Mumbai",
+            "Chennai"
+        ],
+        "answer": "Gujarat",
+        "category": "History"
+    },
+    {
+        "id": 1622,
+        "question": "Which scheme supports dairy cooperatives?",
+        "options": [
+            "Operation Flood",
+            "Green Revolution",
+            "Make in India",
+            "Startup India"
+        ],
+        "answer": "Operation Flood",
+        "category": "History"
+    },
+    {
+        "id": 1623,
+        "question": "When did Operation Flood start?",
+        "options": [
+            "1970",
+            "1947",
+            "1982",
+            "1991"
+        ],
+        "answer": "1970",
+        "category": "History"
+    },
+    {
+        "id": 1624,
+        "question": "Which bank nationalization year?",
+        "options": [
+            "1969",
+            "1947",
+            "1982",
+            "1991"
+        ],
+        "answer": "1969",
+        "category": "History"
+    },
+    {
+        "id": 1625,
+        "question": "Which committee reformed banking in 1991?",
+        "options": [
+            "Narasimham Committee",
+            "Nicholson",
+            "Kelkar",
+            "Hilton"
+        ],
+        "answer": "Narasimham Committee",
+        "category": "History"
+    },
+    {
+        "id": 1626,
+        "question": "Which year cooperative banks included under RBI?",
+        "options": [
+            "1966",
+            "1949",
+            "1935",
+            "1982"
+        ],
+        "answer": "1966",
+        "category": "History"
+    },
+    {
+        "id": 1627,
+        "question": "Which amendment strengthened cooperatives?",
+        "options": [
+            "97th Amendment",
+            "42nd",
+            "44th",
+            "52nd"
+        ],
+        "answer": "97th Amendment",
+        "category": "History"
+    },
+    {
+        "id": 1628,
+        "question": "Which year was 97th Amendment passed?",
+        "options": [
+            "2011",
+            "2000",
+            "1991",
+            "1982"
+        ],
+        "answer": "2011",
+        "category": "History"
+    },
+    {
+        "id": 1629,
+        "question": "Which schedule added cooperatives?",
+        "options": [
+            "11th Schedule",
+            "7th",
+            "9th",
+            "10th"
+        ],
+        "answer": "11th Schedule",
+        "category": "History"
+    },
+    {
+        "id": 1630,
+        "question": "Which part added cooperatives rights?",
+        "options": [
+            "Part IXB",
+            "Part III",
+            "Part IV",
+            "Part V"
+        ],
+        "answer": "Part IXB",
+        "category": "History"
+    },
+    {
+        "id": 1631,
+        "question": "Which sector mainly uses cooperatives?",
+        "options": [
+            "Agriculture",
+            "IT",
+            "Banking only",
+            "Industry"
+        ],
+        "answer": "Agriculture",
+        "category": "History"
+    },
+    {
+        "id": 1632,
+        "question": "Which is first cooperative credit society in India?",
+        "options": [
+            "Anyonya Cooperative",
+            "Amul",
+            "RBI",
+            "SEBI"
+        ],
+        "answer": "Anyonya Cooperative",
+        "category": "History"
+    },
+    {
+        "id": 1633,
+        "question": "Where was first cooperative society in India formed?",
+        "options": [
+            "Baroda",
+            "Delhi",
+            "Mumbai",
+            "Chennai"
+        ],
+        "answer": "Baroda",
+        "category": "History"
+    },
+    {
+        "id": 1634,
+        "question": "Which year formed Anyonya Cooperative?",
+        "options": [
+            "1889",
+            "1904",
+            "1912",
+            "1947"
+        ],
+        "answer": "1889",
+        "category": "History"
+    },
+    {
+        "id": 1635,
+        "question": "Which act recognized non-credit societies?",
+        "options": [
+            "1912 Act",
+            "1904 Act",
+            "RBI Act",
+            "Banking Act"
+        ],
+        "answer": "1912 Act",
+        "category": "History"
+    },
+    {
+        "id": 1636,
+        "question": "Which sector uses PACS?",
+        "options": [
+            "Rural credit",
+            "Urban banking",
+            "Industry",
+            "IT"
+        ],
+        "answer": "Rural credit",
+        "category": "History"
+    },
+    {
+        "id": 1637,
+        "question": "Which tier is PACS?",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Apex",
+            "Central"
+        ],
+        "answer": "Primary",
+        "category": "History"
+    },
+    {
+        "id": 1638,
+        "question": "Which tier is DCCB?",
+        "options": [
+            "District",
+            "Primary",
+            "Apex",
+            "Village"
+        ],
+        "answer": "District",
+        "category": "History"
+    },
+    {
+        "id": 1639,
+        "question": "Which tier is SCB?",
+        "options": [
+            "State",
+            "District",
+            "Village",
+            "Primary"
+        ],
+        "answer": "State",
+        "category": "History"
+    },
+    {
+        "id": 1640,
+        "question": "Which institution apex rural credit?",
+        "options": [
+            "SCB",
+            "PACS",
+            "DCCB",
+            "RBI"
+        ],
+        "answer": "SCB",
+        "category": "History"
+    },
+    {
+        "id": 1641,
+        "question": "Which institution funds PACS?",
+        "options": [
+            "DCCB",
+            "SCB",
+            "RBI",
+            "SEBI"
+        ],
+        "answer": "DCCB",
+        "category": "History"
+    },
+    {
+        "id": 1642,
+        "question": "Which institution funds DCCB?",
+        "options": [
+            "SCB",
+            "PACS",
+            "RBI",
+            "SEBI"
+        ],
+        "answer": "SCB",
+        "category": "History"
+    },
+    {
+        "id": 1643,
+        "question": "Which institution refinances SCB?",
+        "options": [
+            "NABARD",
+            "RBI",
+            "SEBI",
+            "LIC"
+        ],
+        "answer": "NABARD",
+        "category": "History"
+    },
+    {
+        "id": 1644,
+        "question": "Which year NABARD Act passed?",
+        "options": [
+            "1981",
+            "1982",
+            "1991",
+            "1947"
+        ],
+        "answer": "1981",
+        "category": "History"
+    },
+    {
+        "id": 1645,
+        "question": "Which body regulates NABARD?",
+        "options": [
+            "Government of India",
+            "RBI",
+            "SEBI",
+            "LIC"
+        ],
+        "answer": "Government of India",
+        "category": "History"
+    },
+    {
+        "id": 1646,
+        "question": "Which cooperative supports farmers?",
+        "options": [
+            "PACS",
+            "Urban Bank",
+            "Private Bank",
+            "Foreign Bank"
+        ],
+        "answer": "PACS",
+        "category": "History"
+    },
+    {
+        "id": 1647,
+        "question": "Which movement increased agricultural output?",
+        "options": [
+            "Green Revolution",
+            "White",
+            "Blue",
+            "Yellow"
+        ],
+        "answer": "Green Revolution",
+        "category": "History"
+    },
+    {
+        "id": 1648,
+        "question": "When did Green Revolution start?",
+        "options": [
+            "1960s",
+            "1947",
+            "1982",
+            "1991"
+        ],
+        "answer": "1960s",
+        "category": "History"
+    },
+    {
+        "id": 1649,
+        "question": "Which input was key in Green Revolution?",
+        "options": [
+            "HYV seeds",
+            "Machines",
+            "IT",
+            "Exports"
+        ],
+        "answer": "HYV seeds",
+        "category": "History"
+    },
+    {
+        "id": 1650,
+        "question": "Which country supported Green Revolution?",
+        "options": [
+            "USA",
+            "UK",
+            "Germany",
+            "France"
+        ],
+        "answer": "USA",
+        "category": "History"
+    },
+    {
+        "id": 1651,
+        "question": "Which organization supported Operation Flood?",
+        "options": [
+            "NDDB",
+            "RBI",
+            "SEBI",
+            "LIC"
+        ],
+        "answer": "NDDB",
+        "category": "History"
+    },
+    {
+        "id": 1652,
+        "question": "What is the full form of NDDB?",
+        "options": [
+            "National Dairy Development Board",
+            "National Development Data Bank",
+            "New Dairy Board",
+            "National Data Board"
+        ],
+        "answer": "National Dairy Development Board",
+        "category": "History"
+    },
+    {
+        "id": 1653,
+        "question": "Where is NDDB headquarters located?",
+        "options": [
+            "Anand",
+            "Delhi",
+            "Mumbai",
+            "Chennai"
+        ],
+        "answer": "Anand",
+        "category": "History"
+    },
+    {
+        "id": 1654,
+        "question": "Which state is known for dairy cooperatives?",
+        "options": [
+            "Gujarat",
+            "Punjab",
+            "Kerala",
+            "Assam"
+        ],
+        "answer": "Gujarat",
+        "category": "History"
+    },
+    {
+        "id": 1655,
+        "question": "Who founded Amul?",
+        "options": [
+            "Verghese Kurien",
+            "Gandhi",
+            "Nehru",
+            "Patel"
+        ],
+        "answer": "Verghese Kurien",
+        "category": "History"
+    },
+    {
+        "id": 1656,
+        "question": "Which year did Operation Flood Phase 2 start?",
+        "options": [
+            "1981",
+            "1970",
+            "1991",
+            "1969"
+        ],
+        "answer": "1981",
+        "category": "History"
+    },
+    {
+        "id": 1657,
+        "question": "Which year did Operation Flood Phase 3 start?",
+        "options": [
+            "1985",
+            "1970",
+            "1991",
+            "1969"
+        ],
+        "answer": "1985",
+        "category": "History"
+    },
+    {
+        "id": 1658,
+        "question": "Which organization financed Operation Flood?",
+        "options": [
+            "World Bank",
+            "RBI",
+            "SEBI",
+            "LIC"
+        ],
+        "answer": "World Bank",
+        "category": "History"
+    },
+    {
+        "id": 1659,
+        "question": "Which revolution is related to fishery cooperatives?",
+        "options": [
+            "Blue Revolution",
+            "White Revolution",
+            "Green Revolution",
+            "Yellow Revolution"
+        ],
+        "answer": "Blue Revolution",
+        "category": "History"
+    },
+    {
+        "id": 1660,
+        "question": "Which revolution is related to oilseeds?",
+        "options": [
+            "Yellow Revolution",
+            "Green",
+            "White",
+            "Blue"
+        ],
+        "answer": "Yellow Revolution",
+        "category": "History"
+    },
+    {
+        "id": 1661,
+        "question": "Which cooperative movement is linked with sugar industry?",
+        "options": [
+            "Sugar cooperatives",
+            "Milk cooperatives",
+            "Credit cooperatives",
+            "Urban cooperatives"
+        ],
+        "answer": "Sugar cooperatives",
+        "category": "History"
+    },
+    {
+        "id": 1662,
+        "question": "Which state is famous for sugar cooperatives?",
+        "options": [
+            "Maharashtra",
+            "Gujarat",
+            "Punjab",
+            "Kerala"
+        ],
+        "answer": "Maharashtra",
+        "category": "History"
+    },
+    {
+        "id": 1663,
+        "question": "Which leader promoted cooperatives in Maharashtra?",
+        "options": [
+            "Y.B. Chavan",
+            "Nehru",
+            "Gandhi",
+            "Patel"
+        ],
+        "answer": "Y.B. Chavan",
+        "category": "History"
+    },
+    {
+        "id": 1664,
+        "question": "Which sector benefited from sugar cooperatives?",
+        "options": [
+            "Rural economy",
+            "IT",
+            "Industry",
+            "Exports"
+        ],
+        "answer": "Rural economy",
+        "category": "History"
+    },
+    {
+        "id": 1665,
+        "question": "Which is an example of agricultural cooperative?",
+        "options": [
+            "PACS",
+            "SEBI",
+            "RBI",
+            "LIC"
+        ],
+        "answer": "PACS",
+        "category": "History"
+    },
+    {
+        "id": 1666,
+        "question": "Which committee recommended strengthening cooperatives post-independence?",
+        "options": [
+            "All India Rural Credit Survey Committee",
+            "Narasimham",
+            "Kelkar",
+            "Nicholson"
+        ],
+        "answer": "All India Rural Credit Survey Committee",
+        "category": "History"
+    },
+    {
+        "id": 1667,
+        "question": "When was All India Rural Credit Survey conducted?",
+        "options": [
+            "1954",
+            "1947",
+            "1969",
+            "1982"
+        ],
+        "answer": "1954",
+        "category": "History"
+    },
+    {
+        "id": 1668,
+        "question": "Which recommendation was given by AIRCS?",
+        "options": [
+            "State partnership",
+            "Private banks",
+            "Foreign banks",
+            "Stock exchange"
+        ],
+        "answer": "State partnership",
+        "category": "History"
+    },
+    {
+        "id": 1669,
+        "question": "Which institution was strengthened after AIRCS?",
+        "options": [
+            "Cooperative banks",
+            "Private banks",
+            "Foreign banks",
+            "SEBI"
+        ],
+        "answer": "Cooperative banks",
+        "category": "History"
+    },
+    {
+        "id": 1670,
+        "question": "Which sector got major boost after AIRCS?",
+        "options": [
+            "Rural credit",
+            "Urban banking",
+            "IT",
+            "Exports"
+        ],
+        "answer": "Rural credit",
+        "category": "History"
+    },
+    {
+        "id": 1671,
+        "question": "Which year RBI took control over cooperative banks partially?",
+        "options": [
+            "1966",
+            "1949",
+            "1935",
+            "1982"
+        ],
+        "answer": "1966",
+        "category": "History"
+    },
+    {
+        "id": 1672,
+        "question": "Which amendment included cooperatives as fundamental right?",
+        "options": [
+            "97th Amendment",
+            "42nd",
+            "44th",
+            "52nd"
+        ],
+        "answer": "97th Amendment",
+        "category": "History"
+    },
+    {
+        "id": 1673,
+        "question": "Which article relates to cooperatives?",
+        "options": [
+            "Article 43B",
+            "Article 21",
+            "Article 19",
+            "Article 32"
+        ],
+        "answer": "Article 43B",
+        "category": "History"
+    },
+    {
+        "id": 1674,
+        "question": "Which level manages state cooperative banks?",
+        "options": [
+            "State",
+            "Central",
+            "Village",
+            "District"
+        ],
+        "answer": "State",
+        "category": "History"
+    },
+    {
+        "id": 1675,
+        "question": "Which level manages PACS?",
+        "options": [
+            "Village",
+            "District",
+            "State",
+            "Central"
+        ],
+        "answer": "Village",
+        "category": "History"
+    },
+    {
+        "id": 1676,
+        "question": "Which level manages DCCB?",
+        "options": [
+            "District",
+            "Village",
+            "State",
+            "Central"
+        ],
+        "answer": "District",
+        "category": "History"
+    },
+    {
+        "id": 1677,
+        "question": "Which organization supervises rural banks?",
+        "options": [
+            "NABARD",
+            "SEBI",
+            "IRDAI",
+            "LIC"
+        ],
+        "answer": "NABARD",
+        "category": "History"
+    },
+    {
+        "id": 1678,
+        "question": "Which institution regulates banking system?",
+        "options": [
+            "RBI",
+            "SEBI",
+            "IRDAI",
+            "LIC"
+        ],
+        "answer": "RBI",
+        "category": "History"
+    },
+    {
+        "id": 1679,
+        "question": "Which year cooperative banks were brought under Banking Regulation Act?",
+        "options": [
+            "1966",
+            "1949",
+            "1935",
+            "1982"
+        ],
+        "answer": "1966",
+        "category": "History"
+    },
+    {
+        "id": 1680,
+        "question": "Which act applies to cooperative banks?",
+        "options": [
+            "Banking Regulation Act",
+            "Companies Act",
+            "SEBI Act",
+            "RBI Act"
+        ],
+        "answer": "Banking Regulation Act",
+        "category": "History"
+    },
+    {
+        "id": 1681,
+        "question": "Which sector is supported by urban cooperative banks?",
+        "options": [
+            "Urban sector",
+            "Rural",
+            "Agriculture",
+            "Export"
+        ],
+        "answer": "Urban sector",
+        "category": "History"
+    },
+    {
+        "id": 1682,
+        "question": "Which bank type serves cities?",
+        "options": [
+            "Urban Cooperative Bank",
+            "PACS",
+            "DCCB",
+            "SCB"
+        ],
+        "answer": "Urban Cooperative Bank",
+        "category": "History"
+    },
+    {
+        "id": 1683,
+        "question": "Which cooperative structure is 3-tier?",
+        "options": [
+            "Short-term credit",
+            "Long-term credit",
+            "Urban banks",
+            "Private banks"
+        ],
+        "answer": "Short-term credit",
+        "category": "History"
+    },
+    {
+        "id": 1684,
+        "question": "Which cooperative structure is 2-tier?",
+        "options": [
+            "Long-term credit",
+            "Short-term credit",
+            "Urban banks",
+            "Private banks"
+        ],
+        "answer": "Long-term credit",
+        "category": "History"
+    },
+    {
+        "id": 1685,
+        "question": "Which bank provides long-term loans?",
+        "options": [
+            "Land Development Bank",
+            "PACS",
+            "DCCB",
+            "SCB"
+        ],
+        "answer": "Land Development Bank",
+        "category": "History"
+    },
+    {
+        "id": 1686,
+        "question": "Which year did cooperative movement start globally?",
+        "options": [
+            "1844",
+            "1904",
+            "1912",
+            "1889"
+        ],
+        "answer": "1844",
+        "category": "History"
+    },
+    {
+        "id": 1687,
+        "question": "Which country pioneered cooperative credit?",
+        "options": [
+            "Germany",
+            "India",
+            "USA",
+            "France"
+        ],
+        "answer": "Germany",
+        "category": "History"
+    },
+    {
+        "id": 1688,
+        "question": "Who pioneered cooperative credit in Germany?",
+        "options": [
+            "Raiffeisen",
+            "Kurien",
+            "Nicholson",
+            "Nehru"
+        ],
+        "answer": "Raiffeisen",
+        "category": "History"
+    },
+    {
+        "id": 1689,
+        "question": "Which model focused rural credit in Germany?",
+        "options": [
+            "Raiffeisen model",
+            "Urban model",
+            "Capitalist",
+            "Industrial"
+        ],
+        "answer": "Raiffeisen model",
+        "category": "History"
+    },
+    {
+        "id": 1690,
+        "question": "Which model focused urban credit in Germany?",
+        "options": [
+            "Schulze model",
+            "Raiffeisen",
+            "Industrial",
+            "Capitalist"
+        ],
+        "answer": "Schulze model",
+        "category": "History"
+    },
+    {
+        "id": 1691,
+        "question": "Which system influenced Indian cooperatives?",
+        "options": [
+            "German system",
+            "American",
+            "British",
+            "French"
+        ],
+        "answer": "German system",
+        "category": "History"
+    },
+    {
+        "id": 1692,
+        "question": "Which movement improved farmer credit?",
+        "options": [
+            "Cooperative movement",
+            "Industrial",
+            "IT",
+            "Export"
+        ],
+        "answer": "Cooperative movement",
+        "category": "History"
+    },
+    {
+        "id": 1693,
+        "question": "Which policy strengthened rural cooperatives?",
+        "options": [
+            "Rural credit policy",
+            "Industrial policy",
+            "Export policy",
+            "IT policy"
+        ],
+        "answer": "Rural credit policy",
+        "category": "History"
+    },
+    {
+        "id": 1694,
+        "question": "Which committee emphasized state partnership?",
+        "options": [
+            "AIRCS",
+            "Narasimham",
+            "Kelkar",
+            "Nicholson"
+        ],
+        "answer": "AIRCS",
+        "category": "History"
+    },
+    {
+        "id": 1695,
+        "question": "Which institution provides refinance to rural cooperatives?",
+        "options": [
+            "NABARD",
+            "RBI",
+            "SEBI",
+            "LIC"
+        ],
+        "answer": "NABARD",
+        "category": "History"
+    },
+    {
+        "id": 1696,
+        "question": "Which year India got independence?",
+        "options": [
+            "1947",
+            "1950",
+            "1969",
+            "1935"
+        ],
+        "answer": "1947",
+        "category": "History"
+    },
+    {
+        "id": 1697,
+        "question": "Which year Constitution adopted?",
+        "options": [
+            "1950",
+            "1947",
+            "1969",
+            "1982"
+        ],
+        "answer": "1950",
+        "category": "History"
+    },
+    {
+        "id": 1698,
+        "question": "Which schedule includes cooperative activities?",
+        "options": [
+            "11th Schedule",
+            "7th",
+            "9th",
+            "10th"
+        ],
+        "answer": "11th Schedule",
+        "category": "History"
+    },
+    {
+        "id": 1699,
+        "question": "Which amendment added cooperatives as a subject?",
+        "options": [
+            "97th Amendment",
+            "42nd",
+            "44th",
+            "52nd"
+        ],
+        "answer": "97th Amendment",
+        "category": "History"
+    },
+    {
+        "id": 1700,
+        "question": "What is main aim of cooperative movement?",
+        "options": [
+            "Mutual help",
+            "Profit",
+            "Competition",
+            "Export"
+        ],
+        "answer": "Mutual help",
+        "category": "History"
+    },
+    {
+        "id": 1701,
+        "question": "Which act first introduced cooperatives in India?",
+        "options": [
+            "1904 Act",
+            "1912 Act",
+            "RBI Act",
+            "Companies Act"
+        ],
+        "answer": "1904 Act",
+        "category": "History"
+    },
+    {
+        "id": 1702,
+        "question": "Which act allowed non-credit cooperatives?",
+        "options": [
+            "1912 Act",
+            "1904 Act",
+            "RBI Act",
+            "Banking Act"
+        ],
+        "answer": "1912 Act",
+        "category": "History"
+    },
+    {
+        "id": 1703,
+        "question": "Who recommended cooperative credit system in India?",
+        "options": [
+            "Nicholson",
+            "Narasimham",
+            "Kelkar",
+            "Hilton"
+        ],
+        "answer": "Nicholson",
+        "category": "History"
+    },
+    {
+        "id": 1704,
+        "question": "Which year cooperative movement spread rapidly in India?",
+        "options": [
+            "After 1912",
+            "After 1904",
+            "After 1947",
+            "After 1982"
+        ],
+        "answer": "After 1912",
+        "category": "History"
+    },
+    {
+        "id": 1705,
+        "question": "Which system influenced Indian cooperatives strongly?",
+        "options": [
+            "German system",
+            "American system",
+            "British system",
+            "French system"
+        ],
+        "answer": "German system",
+        "category": "History"
+    },
+    {
+        "id": 1706,
+        "question": "Which model focused on rural credit?",
+        "options": [
+            "Raiffeisen model",
+            "Schulze model",
+            "Capitalist model",
+            "Industrial model"
+        ],
+        "answer": "Raiffeisen model",
+        "category": "History"
+    },
+    {
+        "id": 1707,
+        "question": "Which model focused on urban credit?",
+        "options": [
+            "Schulze model",
+            "Raiffeisen model",
+            "Capitalist model",
+            "Industrial model"
+        ],
+        "answer": "Schulze model",
+        "category": "History"
+    },
+    {
+        "id": 1708,
+        "question": "Which movement helped farmers access credit?",
+        "options": [
+            "Cooperative movement",
+            "Industrial movement",
+            "IT movement",
+            "Export movement"
+        ],
+        "answer": "Cooperative movement",
+        "category": "History"
+    },
+    {
+        "id": 1709,
+        "question": "Which sector got major benefit from cooperatives?",
+        "options": [
+            "Agriculture",
+            "IT",
+            "Industry",
+            "Exports"
+        ],
+        "answer": "Agriculture",
+        "category": "History"
+    },
+    {
+        "id": 1710,
+        "question": "Which institution replaced Agricultural Refinance Corporation?",
+        "options": [
+            "NABARD",
+            "RBI",
+            "SEBI",
+            "LIC"
+        ],
+        "answer": "NABARD",
+        "category": "History"
+    },
+    {
+        "id": 1711,
+        "question": "Which year Agricultural Refinance Corporation established?",
+        "options": [
+            "1963",
+            "1947",
+            "1982",
+            "1991"
+        ],
+        "answer": "1963",
+        "category": "History"
+    },
+    {
+        "id": 1712,
+        "question": "Which institution provides long-term rural finance?",
+        "options": [
+            "NABARD",
+            "RBI",
+            "SEBI",
+            "LIC"
+        ],
+        "answer": "NABARD",
+        "category": "History"
+    },
+    {
+        "id": 1713,
+        "question": "Which committee recommended NABARD creation?",
+        "options": [
+            "CRAFICARD",
+            "Narasimham",
+            "Kelkar",
+            "Nicholson"
+        ],
+        "answer": "CRAFICARD",
+        "category": "History"
+    },
+    {
+        "id": 1714,
+        "question": "When was CRAFICARD committee formed?",
+        "options": [
+            "1979",
+            "1982",
+            "1991",
+            "1969"
+        ],
+        "answer": "1979",
+        "category": "History"
+    },
+    {
+        "id": 1715,
+        "question": "Who chaired CRAFICARD committee?",
+        "options": [
+            "B. Sivaraman",
+            "Nehru",
+            "Gandhi",
+            "Kurien"
+        ],
+        "answer": "B. Sivaraman",
+        "category": "History"
+    },
+    {
+        "id": 1716,
+        "question": "Which organization handles agricultural credit policy?",
+        "options": [
+            "NABARD",
+            "RBI",
+            "SEBI",
+            "LIC"
+        ],
+        "answer": "NABARD",
+        "category": "History"
+    },
+    {
+        "id": 1717,
+        "question": "Which reform focused on liberalization of banking?",
+        "options": [
+            "1991 reforms",
+            "1969 reforms",
+            "1947 reforms",
+            "1982 reforms"
+        ],
+        "answer": "1991 reforms",
+        "category": "History"
+    },
+    {
+        "id": 1718,
+        "question": "Which committee suggested banking reforms in 1991?",
+        "options": [
+            "Narasimham Committee",
+            "Kelkar",
+            "Nicholson",
+            "CRAFICARD"
+        ],
+        "answer": "Narasimham Committee",
+        "category": "History"
+    },
+    {
+        "id": 1719,
+        "question": "Which sector improved after 1991 reforms?",
+        "options": [
+            "Banking",
+            "Agriculture",
+            "IT only",
+            "Exports"
+        ],
+        "answer": "Banking",
+        "category": "History"
+    },
+    {
+        "id": 1720,
+        "question": "Which type of cooperatives expanded post-independence?",
+        "options": [
+            "Credit cooperatives",
+            "Industrial",
+            "IT",
+            "Export"
+        ],
+        "answer": "Credit cooperatives",
+        "category": "History"
+    },
+    {
+        "id": 1721,
+        "question": "Which cooperative sector supports farmers directly?",
+        "options": [
+            "PACS",
+            "Urban banks",
+            "Private banks",
+            "Foreign banks"
+        ],
+        "answer": "PACS",
+        "category": "History"
+    },
+    {
+        "id": 1722,
+        "question": "Which cooperative is at district level?",
+        "options": [
+            "DCCB",
+            "PACS",
+            "SCB",
+            "Urban bank"
+        ],
+        "answer": "DCCB",
+        "category": "History"
+    },
+    {
+        "id": 1723,
+        "question": "Which cooperative is apex at state level?",
+        "options": [
+            "SCB",
+            "PACS",
+            "DCCB",
+            "Urban bank"
+        ],
+        "answer": "SCB",
+        "category": "History"
+    },
+    {
+        "id": 1724,
+        "question": "Which bank supervises cooperative banks?",
+        "options": [
+            "RBI",
+            "SEBI",
+            "IRDAI",
+            "LIC"
+        ],
+        "answer": "RBI",
+        "category": "History"
+    },
+    {
+        "id": 1725,
+        "question": "Which institution provides refinance to SCB?",
+        "options": [
+            "NABARD",
+            "RBI",
+            "SEBI",
+            "LIC"
+        ],
+        "answer": "NABARD",
+        "category": "History"
+    },
+    {
+        "id": 1726,
+        "question": "Which revolution used cooperative model successfully?",
+        "options": [
+            "White Revolution",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "answer": "White Revolution",
+        "category": "History"
+    },
+    {
+        "id": 1727,
+        "question": "Which organization is linked with milk cooperatives?",
+        "options": [
+            "Amul",
+            "RBI",
+            "SEBI",
+            "LIC"
+        ],
+        "answer": "Amul",
+        "category": "History"
+    },
+    {
+        "id": 1728,
+        "question": "Which place is known as milk capital of India?",
+        "options": [
+            "Anand",
+            "Delhi",
+            "Mumbai",
+            "Chennai"
+        ],
+        "answer": "Anand",
+        "category": "History"
+    },
+    {
+        "id": 1729,
+        "question": "Which movement improved milk production?",
+        "options": [
+            "Operation Flood",
+            "Green Revolution",
+            "Blue Revolution",
+            "Yellow Revolution"
+        ],
+        "answer": "Operation Flood",
+        "category": "History"
+    },
+    {
+        "id": 1730,
+        "question": "Which year Operation Flood expanded nationwide?",
+        "options": [
+            "1980s",
+            "1970",
+            "1991",
+            "1969"
+        ],
+        "answer": "1980s",
+        "category": "History"
+    },
+    {
+        "id": 1731,
+        "question": "Which cooperative model is used in sugar industry?",
+        "options": [
+            "Sugar cooperatives",
+            "Credit cooperatives",
+            "Urban banks",
+            "Private banks"
+        ],
+        "answer": "Sugar cooperatives",
+        "category": "History"
+    },
+    {
+        "id": 1732,
+        "question": "Which state leads in sugar cooperatives?",
+        "options": [
+            "Maharashtra",
+            "Gujarat",
+            "Punjab",
+            "Kerala"
+        ],
+        "answer": "Maharashtra",
+        "category": "History"
+    },
+    {
+        "id": 1733,
+        "question": "Which leader supported cooperative growth?",
+        "options": [
+            "Y.B. Chavan",
+            "Nehru",
+            "Gandhi",
+            "Ambedkar"
+        ],
+        "answer": "Y.B. Chavan",
+        "category": "History"
+    },
+    {
+        "id": 1734,
+        "question": "Which policy promoted rural cooperatives?",
+        "options": [
+            "Rural credit policy",
+            "Industrial policy",
+            "Export policy",
+            "IT policy"
+        ],
+        "answer": "Rural credit policy",
+        "category": "History"
+    },
+    {
+        "id": 1735,
+        "question": "Which sector gained employment through cooperatives?",
+        "options": [
+            "Rural sector",
+            "IT",
+            "Urban sector",
+            "Exports"
+        ],
+        "answer": "Rural sector",
+        "category": "History"
+    },
+    {
+        "id": 1736,
+        "question": "Which amendment made cooperatives constitutional?",
+        "options": [
+            "97th Amendment",
+            "42nd",
+            "44th",
+            "52nd"
+        ],
+        "answer": "97th Amendment",
+        "category": "History"
+    },
+    {
+        "id": 1737,
+        "question": "Which part of Constitution deals with cooperatives?",
+        "options": [
+            "Part IXB",
+            "Part III",
+            "Part IV",
+            "Part V"
+        ],
+        "answer": "Part IXB",
+        "category": "History"
+    },
+    {
+        "id": 1738,
+        "question": "Which article supports cooperative development?",
+        "options": [
+            "Article 43B",
+            "Article 21",
+            "Article 19",
+            "Article 32"
+        ],
+        "answer": "Article 43B",
+        "category": "History"
+    },
+    {
+        "id": 1739,
+        "question": "Which schedule includes cooperative subjects?",
+        "options": [
+            "11th Schedule",
+            "7th",
+            "9th",
+            "10th"
+        ],
+        "answer": "11th Schedule",
+        "category": "History"
+    },
+    {
+        "id": 1740,
+        "question": "Which year 97th Amendment implemented?",
+        "options": [
+            "2012",
+            "2011",
+            "2000",
+            "1991"
+        ],
+        "answer": "2012",
+        "category": "History"
+    },
+    {
+        "id": 1741,
+        "question": "Which sector is core for cooperatives?",
+        "options": [
+            "Agriculture",
+            "IT",
+            "Industry",
+            "Exports"
+        ],
+        "answer": "Agriculture",
+        "category": "History"
+    },
+    {
+        "id": 1742,
+        "question": "Which institution regulates rural finance?",
+        "options": [
+            "NABARD",
+            "RBI",
+            "SEBI",
+            "LIC"
+        ],
+        "answer": "NABARD",
+        "category": "History"
+    },
+    {
+        "id": 1743,
+        "question": "Which system emphasizes mutual help?",
+        "options": [
+            "Cooperative system",
+            "Capitalist system",
+            "Socialist system",
+            "Mixed system"
+        ],
+        "answer": "Cooperative system",
+        "category": "History"
+    },
+    {
+        "id": 1744,
+        "question": "Which concept defines cooperatives?",
+        "options": [
+            "Mutual help",
+            "Profit",
+            "Competition",
+            "Export"
+        ],
+        "answer": "Mutual help",
+        "category": "History"
+    },
+    {
+        "id": 1745,
+        "question": "Which objective is primary in cooperatives?",
+        "options": [
+            "Service",
+            "Profit",
+            "Export",
+            "Growth"
+        ],
+        "answer": "Service",
+        "category": "History"
+    },
+    {
+        "id": 1746,
+        "question": "Which sector uses short-term cooperative credit?",
+        "options": [
+            "Agriculture",
+            "IT",
+            "Industry",
+            "Exports"
+        ],
+        "answer": "Agriculture",
+        "category": "History"
+    },
+    {
+        "id": 1747,
+        "question": "Which institution provides village-level credit?",
+        "options": [
+            "PACS",
+            "DCCB",
+            "SCB",
+            "Urban bank"
+        ],
+        "answer": "PACS",
+        "category": "History"
+    },
+    {
+        "id": 1748,
+        "question": "Which institution links village to district cooperatives?",
+        "options": [
+            "DCCB",
+            "PACS",
+            "SCB",
+            "RBI"
+        ],
+        "answer": "DCCB",
+        "category": "History"
+    },
+    {
+        "id": 1749,
+        "question": "Which institution links district to state cooperatives?",
+        "options": [
+            "SCB",
+            "PACS",
+            "DCCB",
+            "RBI"
+        ],
+        "answer": "SCB",
+        "category": "History"
+    },
+    {
+        "id": 1750,
+        "question": "Which institution refinances cooperatives?",
+        "options": [
+            "NABARD",
+            "RBI",
+            "SEBI",
+            "LIC"
+        ],
+        "answer": "NABARD",
+        "category": "History"
+    },
+    {
+        "id": 1751,
+        "question": "Which year cooperative credit expanded rapidly?",
+        "options": [
+            "Post-1950",
+            "Pre-1900",
+            "Post-1991",
+            "Post-2000"
+        ],
+        "answer": "Post-1950",
+        "category": "History"
+    },
+    {
+        "id": 1752,
+        "question": "Which reform focused rural banking?",
+        "options": [
+            "1969 nationalization",
+            "1991 reforms",
+            "1947 reforms",
+            "1982 reforms"
+        ],
+        "answer": "1969 nationalization",
+        "category": "History"
+    },
+    {
+        "id": 1753,
+        "question": "Which sector got priority after bank nationalization?",
+        "options": [
+            "Agriculture",
+            "IT",
+            "Exports",
+            "Industry"
+        ],
+        "answer": "Agriculture",
+        "category": "History"
+    },
+    {
+        "id": 1754,
+        "question": "Which policy aimed at rural upliftment?",
+        "options": [
+            "Cooperative policy",
+            "Industrial policy",
+            "IT policy",
+            "Export policy"
+        ],
+        "answer": "Cooperative policy",
+        "category": "History"
+    },
+    {
+        "id": 1755,
+        "question": "Which system is people-centered?",
+        "options": [
+            "Cooperative system",
+            "Capitalist system",
+            "Industrial system",
+            "Export system"
+        ],
+        "answer": "Cooperative system",
+        "category": "History"
+    },
+    {
+        "id": 1756,
+        "question": "Which organization promotes rural credit institutions?",
+        "options": [
+            "NABARD",
+            "RBI",
+            "SEBI",
+            "LIC"
+        ],
+        "answer": "NABARD",
+        "category": "History"
+    },
+    {
+        "id": 1757,
+        "question": "Which institution regulates monetary policy?",
+        "options": [
+            "RBI",
+            "SEBI",
+            "IRDAI",
+            "LIC"
+        ],
+        "answer": "RBI",
+        "category": "History"
+    },
+    {
+        "id": 1758,
+        "question": "Which cooperative type serves urban people?",
+        "options": [
+            "Urban Cooperative Bank",
+            "PACS",
+            "DCCB",
+            "SCB"
+        ],
+        "answer": "Urban Cooperative Bank",
+        "category": "History"
+    },
+    {
+        "id": 1759,
+        "question": "Which cooperative is grassroots level?",
+        "options": [
+            "PACS",
+            "DCCB",
+            "SCB",
+            "Urban bank"
+        ],
+        "answer": "PACS",
+        "category": "History"
+    },
+    {
+        "id": 1760,
+        "question": "Which cooperative ensures rural credit flow?",
+        "options": [
+            "PACS",
+            "Urban banks",
+            "Private banks",
+            "Foreign banks"
+        ],
+        "answer": "PACS",
+        "category": "History"
+    },
+    {
+        "id": 1761,
+        "question": "Which act is considered the foundation of cooperative credit in India?",
+        "options": [
+            "1904 Act",
+            "1912 Act",
+            "RBI Act",
+            "Banking Act"
+        ],
+        "answer": "1904 Act",
+        "category": "History"
+    },
+    {
+        "id": 1762,
+        "question": "Which feature was missing in the 1904 Act?",
+        "options": [
+            "Non-credit societies",
+            "Credit societies",
+            "Rural focus",
+            "Legal status"
+        ],
+        "answer": "Non-credit societies",
+        "category": "History"
+    },
+    {
+        "id": 1763,
+        "question": "Which act removed limitations of the 1904 Act?",
+        "options": [
+            "1912 Act",
+            "1949 Act",
+            "1935 Act",
+            "1982 Act"
+        ],
+        "answer": "1912 Act",
+        "category": "History"
+    },
+    {
+        "id": 1764,
+        "question": "Which committee first studied rural indebtedness in India?",
+        "options": [
+            "Nicholson Committee",
+            "Narasimham Committee",
+            "Kelkar Committee",
+            "CRAFICARD"
+        ],
+        "answer": "Nicholson Committee",
+        "category": "History"
+    },
+    {
+        "id": 1765,
+        "question": "Which year is considered the beginning of cooperative movement in India?",
+        "options": [
+            "1904",
+            "1912",
+            "1889",
+            "1947"
+        ],
+        "answer": "1904",
+        "category": "History"
+    },
+    {
+        "id": 1766,
+        "question": "Which structure is followed in short-term cooperative credit?",
+        "options": [
+            "Three-tier",
+            "Two-tier",
+            "Single-tier",
+            "Four-tier"
+        ],
+        "answer": "Three-tier",
+        "category": "History"
+    },
+    {
+        "id": 1767,
+        "question": "Which institutions are included in three-tier structure?",
+        "options": [
+            "PACS, DCCB, SCB",
+            "RBI, NABARD, SEBI",
+            "Urban banks only",
+            "Private banks"
+        ],
+        "answer": "PACS, DCCB, SCB",
+        "category": "History"
+    },
+    {
+        "id": 1768,
+        "question": "Which structure is followed in long-term cooperative credit?",
+        "options": [
+            "Two-tier",
+            "Three-tier",
+            "Single-tier",
+            "Four-tier"
+        ],
+        "answer": "Two-tier",
+        "category": "History"
+    },
+    {
+        "id": 1769,
+        "question": "Which institution is part of long-term structure?",
+        "options": [
+            "Land Development Bank",
+            "PACS",
+            "DCCB",
+            "SCB"
+        ],
+        "answer": "Land Development Bank",
+        "category": "History"
+    },
+    {
+        "id": 1770,
+        "question": "Which credit type supports agriculture seasonal needs?",
+        "options": [
+            "Short-term credit",
+            "Long-term credit",
+            "Medium-term credit",
+            "Industrial credit"
+        ],
+        "answer": "Short-term credit",
+        "category": "History"
+    },
+    {
+        "id": 1771,
+        "question": "Which credit type is used for land development?",
+        "options": [
+            "Long-term credit",
+            "Short-term credit",
+            "Medium-term credit",
+            "Working capital"
+        ],
+        "answer": "Long-term credit",
+        "category": "History"
+    },
+    {
+        "id": 1772,
+        "question": "Which institution provides medium-term loans?",
+        "options": [
+            "Cooperative banks",
+            "SEBI",
+            "LIC",
+            "RBI"
+        ],
+        "answer": "Cooperative banks",
+        "category": "History"
+    },
+    {
+        "id": 1773,
+        "question": "Which act regulates cooperative societies at state level?",
+        "options": [
+            "State Cooperative Act",
+            "RBI Act",
+            "SEBI Act",
+            "Companies Act"
+        ],
+        "answer": "State Cooperative Act",
+        "category": "History"
+    },
+    {
+        "id": 1774,
+        "question": "Which authority registers cooperative societies?",
+        "options": [
+            "Registrar of Cooperative Societies",
+            "RBI",
+            "SEBI",
+            "IRDAI"
+        ],
+        "answer": "Registrar of Cooperative Societies",
+        "category": "History"
+    },
+    {
+        "id": 1775,
+        "question": "Which year RBI started functioning?",
+        "options": [
+            "1935",
+            "1947",
+            "1949",
+            "1982"
+        ],
+        "answer": "1935",
+        "category": "History"
+    },
+    {
+        "id": 1776,
+        "question": "Which role does RBI play in cooperatives?",
+        "options": [
+            "Regulator",
+            "Owner",
+            "Investor",
+            "Auditor"
+        ],
+        "answer": "Regulator",
+        "category": "History"
+    },
+    {
+        "id": 1777,
+        "question": "Which institution supervises cooperative banks in rural sector?",
+        "options": [
+            "NABARD",
+            "SEBI",
+            "IRDAI",
+            "LIC"
+        ],
+        "answer": "NABARD",
+        "category": "History"
+    },
+    {
+        "id": 1778,
+        "question": "Which sector depends heavily on cooperative credit?",
+        "options": [
+            "Agriculture",
+            "IT",
+            "Exports",
+            "Industry"
+        ],
+        "answer": "Agriculture",
+        "category": "History"
+    },
+    {
+        "id": 1779,
+        "question": "Which movement reduced rural indebtedness?",
+        "options": [
+            "Cooperative movement",
+            "Industrial revolution",
+            "IT boom",
+            "Export growth"
+        ],
+        "answer": "Cooperative movement",
+        "category": "History"
+    },
+    {
+        "id": 1780,
+        "question": "Which principle drives cooperative history?",
+        "options": [
+            "Mutual help",
+            "Profit",
+            "Competition",
+            "Monopoly"
+        ],
+        "answer": "Mutual help",
+        "category": "History"
+    },
+    {
+        "id": 1781,
+        "question": "Which system is opposite of cooperative system?",
+        "options": [
+            "Capitalist system",
+            "Agricultural system",
+            "Rural system",
+            "Mixed system"
+        ],
+        "answer": "Capitalist system",
+        "category": "History"
+    },
+    {
+        "id": 1782,
+        "question": "Which cooperative success story is from Gujarat?",
+        "options": [
+            "Amul",
+            "SEBI",
+            "RBI",
+            "LIC"
+        ],
+        "answer": "Amul",
+        "category": "History"
+    },
+    {
+        "id": 1783,
+        "question": "Which sector saw success through Amul model?",
+        "options": [
+            "Dairy",
+            "IT",
+            "Industry",
+            "Exports"
+        ],
+        "answer": "Dairy",
+        "category": "History"
+    },
+    {
+        "id": 1784,
+        "question": "Which model is used in dairy cooperatives?",
+        "options": [
+            "Anand model",
+            "German model",
+            "British model",
+            "American model"
+        ],
+        "answer": "Anand model",
+        "category": "History"
+    },
+    {
+        "id": 1785,
+        "question": "Which organization manages dairy cooperatives nationally?",
+        "options": [
+            "NDDB",
+            "RBI",
+            "SEBI",
+            "LIC"
+        ],
+        "answer": "NDDB",
+        "category": "History"
+    },
+    {
+        "id": 1786,
+        "question": "Which program made India largest milk producer?",
+        "options": [
+            "Operation Flood",
+            "Green Revolution",
+            "Blue Revolution",
+            "Yellow Revolution"
+        ],
+        "answer": "Operation Flood",
+        "category": "History"
+    },
+    {
+        "id": 1787,
+        "question": "Which sector uses Blue Revolution?",
+        "options": [
+            "Fisheries",
+            "Agriculture",
+            "Dairy",
+            "Oilseeds"
+        ],
+        "answer": "Fisheries",
+        "category": "History"
+    },
+    {
+        "id": 1788,
+        "question": "Which sector uses Yellow Revolution?",
+        "options": [
+            "Oilseeds",
+            "Milk",
+            "Fish",
+            "Wheat"
+        ],
+        "answer": "Oilseeds",
+        "category": "History"
+    },
+    {
+        "id": 1789,
+        "question": "Which revolution improved food grain production?",
+        "options": [
+            "Green Revolution",
+            "White",
+            "Blue",
+            "Yellow"
+        ],
+        "answer": "Green Revolution",
+        "category": "History"
+    },
+    {
+        "id": 1790,
+        "question": "Which input was key in agricultural growth?",
+        "options": [
+            "Fertilizers",
+            "IT",
+            "Exports",
+            "Machinery only"
+        ],
+        "answer": "Fertilizers",
+        "category": "History"
+    },
+    {
+        "id": 1791,
+        "question": "Which body supports rural infrastructure?",
+        "options": [
+            "NABARD",
+            "RBI",
+            "SEBI",
+            "LIC"
+        ],
+        "answer": "NABARD",
+        "category": "History"
+    },
+    {
+        "id": 1792,
+        "question": "Which fund is managed by NABARD?",
+        "options": [
+            "RIDF",
+            "CRR",
+            "SLR",
+            "Repo"
+        ],
+        "answer": "RIDF",
+        "category": "History"
+    },
+    {
+        "id": 1793,
+        "question": "What is RIDF full form?",
+        "options": [
+            "Rural Infrastructure Development Fund",
+            "Reserve Infrastructure Development Fund",
+            "Rural Investment Development Fund",
+            "Regional Infrastructure Development Fund"
+        ],
+        "answer": "Rural Infrastructure Development Fund",
+        "category": "History"
+    },
+    {
+        "id": 1794,
+        "question": "Which year RIDF was established?",
+        "options": [
+            "1995",
+            "1982",
+            "1991",
+            "2000"
+        ],
+        "answer": "1995",
+        "category": "History"
+    },
+    {
+        "id": 1795,
+        "question": "Which sector benefits from RIDF?",
+        "options": [
+            "Rural infrastructure",
+            "IT",
+            "Exports",
+            "Industry"
+        ],
+        "answer": "Rural infrastructure",
+        "category": "History"
+    },
+    {
+        "id": 1796,
+        "question": "Which banking reform improved cooperative regulation?",
+        "options": [
+            "Banking Regulation Act",
+            "Companies Act",
+            "SEBI Act",
+            "RBI Act"
+        ],
+        "answer": "Banking Regulation Act",
+        "category": "History"
+    },
+    {
+        "id": 1797,
+        "question": "Which year Banking Regulation Act enacted?",
+        "options": [
+            "1949",
+            "1935",
+            "1904",
+            "1982"
+        ],
+        "answer": "1949",
+        "category": "History"
+    },
+    {
+        "id": 1798,
+        "question": "Which amendment strengthened cooperative governance?",
+        "options": [
+            "97th Amendment",
+            "42nd",
+            "44th",
+            "52nd"
+        ],
+        "answer": "97th Amendment",
+        "category": "History"
+    },
+    {
+        "id": 1799,
+        "question": "Which concept is central to cooperatives?",
+        "options": [
+            "Service motive",
+            "Profit motive",
+            "Competition",
+            "Export"
+        ],
+        "answer": "Service motive",
+        "category": "History"
+    },
+    {
+        "id": 1800,
+        "question": "What is the ultimate aim of cooperative movement?",
+        "options": [
+            "Member welfare",
+            "Profit maximization",
+            "Global expansion",
+            "Industrial growth"
+        ],
+        "answer": "Member welfare",
+        "category": "History"
     }
 ]
