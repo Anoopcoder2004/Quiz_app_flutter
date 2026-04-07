@@ -1,0 +1,2105 @@
+[  
+    
+  {
+    "_comment": "This is a comment, describing the MCQs below.This is bank related questions",
+    "id": 1,
+    "question": "Co-operative movement originated first in which country?",
+    "options": ["Germany", "England", "France", "Spain"],
+    "answer": "England",
+    "category": "History"
+  },
+  {
+    "id": 2,
+    "question": "The main objective of a co-operative bank is to?",
+    "options": ["Maximize profit", "Provide credit to members", "Invest in stocks", "Operate internationally"],
+    "answer": "Provide credit to members",
+    "category": "Banking"
+  },
+  {
+    "id": 3,
+    "question": "Which section of Co-operative Societies Act governs share capital?",
+    "options": ["Section 33", "Section 37", "Section 38", "Section 40"],
+    "answer": "Section 38",
+    "category": "Law"
+  },
+  {
+    "id": 4,
+    "question": "Which type of co-operative bank works at the district level in India?",
+    "options": ["State Co-operative Bank", "Central Co-operative Bank", "Primary Co-operative Bank", "Regional Co-operative Bank"],
+    "answer": "Central Co-operative Bank",
+    "category": "Banking"
+  },
+  {
+    "id": 5,
+    "question": "The principle of co-operative movement emphasizes?",
+    "options": ["Profit only", "Mutual help and self-reliance", "Government control", "Unlimited membership"],
+    "answer": "Mutual help and self-reliance",
+    "category": "Principles"
+  },
+  {
+    "id": 6,
+    "question": "Primary co-operative societies are formed at?",
+    "options": ["State level", "District level", "Village level", "National level"],
+    "answer": "Village level",
+    "category": "Banking"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is a major source of funds for co-operative banks?",
+    "options": ["Government grants", "Member deposits", "Foreign loans", "Stock market investments"],
+    "answer": "Member deposits",
+    "category": "Banking"
+  },
+  {
+    "id": 8,
+    "question": "The apex body of co-operative banks in a state is called?",
+    "options": ["Primary Co-operative Bank", "Central Co-operative Bank", "State Co-operative Bank", "National Bank"],
+    "answer": "State Co-operative Bank",
+    "category": "Banking"
+  },
+  {
+    "id": 9,
+    "question": "In co-operative banking, voting rights are based on?",
+    "options": ["Shareholding", "One member, one vote", "Deposit amount", "Loan taken"],
+    "answer": "One member, one vote",
+    "category": "Principles"
+  },
+  {
+    "id": 10,
+    "question": "The first co-operative bank in India was established in?",
+    "options": ["1904", "1912", "1920", "1935"],
+    "answer": "1904",
+    "category": "History"
+  },
+  {
+    "id": 11,
+    "question": "The term 'credit co-operative' refers to?",
+    "options": ["Co-operative giving loans", "Co-operative selling goods", "Co-operative investing in stocks", "Co-operative in transport"],
+    "answer": "Co-operative giving loans",
+    "category": "Banking"
+  },
+  {
+    "id": 12,
+    "question": "The main regulator of co-operative banks in India is?",
+    "options": ["SEBI", "RBI", "IRDA", "NABARD"],
+    "answer": "RBI",
+    "category": "Regulation"
+  },
+  {
+    "id": 13,
+    "question": "Co-operative banks primarily aim to serve?",
+    "options": ["Large corporations", "Small and marginal farmers", "Foreign investors", "Urban elite"],
+    "answer": "Small and marginal farmers",
+    "category": "Banking"
+  },
+  {
+    "id": 14,
+    "question": "The Kerala State Co-operative Bank was formed by merging?",
+    "options": ["District banks", "State apex and central banks", "Private banks", "National banks"],
+    "answer": "State apex and central banks",
+    "category": "History"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is a feature of co-operative banks?",
+    "options": ["Profit maximization", "Democratic management", "Limited membership", "No regulation"],
+    "answer": "Democratic management",
+    "category": "Principles"
+  },
+  {
+    "id": 16,
+    "question": "NABARD was established in which year?",
+    "options": ["1970", "1982", "1960", "1990"],
+    "answer": "1982",
+    "category": "Regulation"
+  },
+  {
+    "id": 17,
+    "question": "In co-operative banking, the liability of members is usually?",
+    "options": ["Limited", "Unlimited", "Equal to deposits only", "Depends on loan amount"],
+    "answer": "Limited",
+    "category": "Principles"
+  },
+  {
+    "id": 18,
+    "question": "The main function of co-operative banks is?",
+    "options": ["Providing credit", "Managing insurance", "Trading stocks", "Issuing currency"],
+    "answer": "Providing credit",
+    "category": "Banking"
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is considered the apex co-operative in India?",
+    "options": ["NABARD", "RBI", "National Co-operative Union of India", "SEBI"],
+    "answer": "National Co-operative Union of India",
+    "category": "Regulation"
+  },
+  {
+    "id": 20,
+    "question": "Co-operative banks follow which type of ownership principle?",
+    "options": ["Government owned", "Member-owned", "Private owned", "Joint-stock company"],
+    "answer": "Member-owned",
+    "category": "Principles"
+  },
+  {
+    "id": 21,
+    "question": "Which type of co-operative bank is directly connected to NABARD?",
+    "options": ["Primary Co-operative Bank", "Central Co-operative Bank", "State Co-operative Bank", "All of the above"],
+    "answer": "All of the above",
+    "category": "Regulation"
+  },
+  {
+    "id": 22,
+    "question": "Co-operative banks provide loans mainly for?",
+    "options": ["Agriculture", "Industry", "Real estate", "IT sector"],
+    "answer": "Agriculture",
+    "category": "Banking"
+  },
+  {
+    "id": 23,
+    "question": "Which body supervises co-operative societies at the state level?",
+    "options": ["Registrar of Co-operative Societies", "RBI", "SEBI", "Finance Ministry"],
+    "answer": "Registrar of Co-operative Societies",
+    "category": "Regulation"
+  },
+  {
+    "id": 24,
+    "question": "In co-operative societies, surplus is distributed based on?",
+    "options": ["Capital contribution", "Usage of services", "Government decision", "Random allocation"],
+    "answer": "Usage of services",
+    "category": "Principles"
+  },
+  {
+    "id": 25,
+    "question": "The Kerala Bank was officially formed in?",
+    "options": ["2019", "2020", "2021", "2018"],
+    "answer": "2020",
+    "category": "History"
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is an advantage of co-operative banking?",
+    "options": ["High-profit focus", "Democratic decision-making", "No regulation", "Limited membership"],
+    "answer": "Democratic decision-making",
+    "category": "Principles"
+  },
+  {
+    "id": 27,
+    "question": "Which type of co-operative bank directly serves rural areas?",
+    "options": ["Primary Co-operative Bank", "Central Co-operative Bank", "State Co-operative Bank", "National Co-operative Bank"],
+    "answer": "Primary Co-operative Bank",
+    "category": "Banking"
+  },
+  {
+    "id": 28,
+    "question": "Co-operative banks are regulated under which act?",
+    "options": ["Companies Act", "Banking Regulation Act", "Co-operative Societies Act", "RBI Act"],
+    "answer": "Co-operative Societies Act",
+    "category": "Law"
+  },
+  {
+    "id": 29,
+    "question": "Voting in co-operative banks follows which principle?",
+    "options": ["One share, one vote", "One member, one vote", "Capital based", "Government decides"],
+    "answer": "One member, one vote",
+    "category": "Principles"
+  },
+  {
+    "id": 30,
+    "question": "Which is the apex institution for agricultural finance in India?",
+    "options": ["RBI", "NABARD", "SEBI", "ICICI"],
+    "answer": "NABARD",
+    "category": "Regulation"
+  },
+  {
+    "id": 31,
+    "question": "The minimum membership required for a co-operative society in India is?",
+    "options": ["5", "10", "15", "20"],
+    "answer": "10",
+    "category": "Law"
+  },
+  {
+    "id": 32,
+    "question": "Which of these is a co-operative banking principle?",
+    "options": ["Voluntary membership", "Mandatory membership", "Profit-only focus", "Government owned"],
+    "answer": "Voluntary membership",
+    "category": "Principles"
+  },
+  {
+    "id": 33,
+    "question": "The Kerala State Co-operative Federation mainly deals with?",
+    "options": ["Marketing and credit support", "International trade", "IT services", "Insurance policies"],
+    "answer": "Marketing and credit support",
+    "category": "Banking"
+  },
+  {
+    "id": 34,
+    "question": "In co-operative banking, loans are usually given at?",
+    "options": ["Market rates", "Subsidized rates", "Very high rates", "Depends on stock market"],
+    "answer": "Subsidized rates",
+    "category": "Banking"
+  },
+  {
+    "id": 35,
+    "question": "The governing body of a co-operative society is elected by?",
+    "options": ["Government officials", "All members", "Only shareholders", "Bank employees"],
+    "answer": "All members",
+    "category": "Principles"
+  },
+  {
+    "id": 36,
+    "question": "Which organization provides refinancing facilities to co-operative banks?",
+    "options": ["RBI", "NABARD", "SEBI", "IRDA"],
+    "answer": "NABARD",
+    "category": "Regulation"
+  },
+  {
+    "id": 37,
+    "question": "A primary co-operative bank is mostly found in?",
+    "options": ["Cities", "Villages", "State capitals", "International locations"],
+    "answer": "Villages",
+    "category": "Banking"
+  },
+  {
+    "id": 38,
+    "question": "Surplus of co-operative banks is distributed among members based on?",
+    "options": ["Capital contribution", "Use of services", "Government policy", "Randomly"],
+    "answer": "Use of services",
+    "category": "Principles"
+  },
+  {
+    "id": 39,
+    "question": "Which body inspects co-operative banks in India?",
+    "options": ["RBI", "SEBI", "IRDA", "Finance Ministry"],
+    "answer": "RBI",
+    "category": "Regulation"
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is true for Kerala Bank?",
+    "options": ["It is a single state-wide bank", "It is privately owned", "It operates internationally", "It is unregulated"],
+    "answer": "It is a single state-wide bank",
+    "category": "History"
+  },
+  {
+    "id": 41,
+    "question": "The main focus of co-operative banks is?",
+    "options": ["Profit", "Serving members", "Mergers", "Foreign investments"],
+    "answer": "Serving members",
+    "category": "Principles"
+  },
+  {
+    "id": 42,
+    "question": "Which of these is a key feature of co-operative banking?",
+    "options": ["Democratic management", "Unlimited liability", "High risk", "Private ownership"],
+    "answer": "Democratic management",
+    "category": "Principles"
+  },
+  {
+    "id": 43,
+    "question": "The Kerala State Co-operative Federation supports which sector?",
+    "options": ["Agriculture and marketing", "IT services", "Automobiles", "Education"],
+    "answer": "Agriculture and marketing",
+    "category": "Banking"
+  },
+  {
+    "id": 44,
+    "question": "Co-operative banks provide which type of loans mostly?",
+    "options": ["Short-term and medium-term", "Long-term only", "Personal loans only", "Housing loans only"],
+    "answer": "Short-term and medium-term",
+    "category": "Banking"
+  },
+  {
+    "id": 45,
+    "question": "Which type of co-operative is found in villages?",
+    "options": ["Primary Co-operative", "State Co-operative", "Central Co-operative", "National Co-operative"],
+    "answer": "Primary Co-operative",
+    "category": "Banking"
+  },
+  {
+    "id": 46,
+    "question": "The Kerala Bank is primarily regulated by?",
+    "options": ["RBI", "SEBI", "Government only", "NABARD only"],
+    "answer": "RBI",
+    "category": "Regulation"
+  },
+  {
+    "id": 47,
+    "question": "The founder of modern co-operative movement is?",
+    "options": ["Robert Owen", "RBI Governor", "Mahatma Gandhi", "NABARD Founder"],
+    "answer": "Robert Owen",
+    "category": "History"
+  },
+  {
+    "id": 48,
+    "question": "Co-operative banking in India started in which year?",
+    "options": ["1904", "1912", "1920", "1935"],
+    "answer": "1904",
+    "category": "History"
+  },
+  {
+    "id": 49,
+    "question": "Which of the following is not a feature of co-operative societies?",
+    "options": ["Voluntary membership", "Democratic control", "Unlimited liability", "Member benefit"],
+    "answer": "Unlimited liability",
+    "category": "Principles"
+  },
+  {
+    "id": 50,
+    "question": "In co-operative banks, the apex level is?",
+    "options": ["State Co-operative Bank", "Primary Co-operative Bank", "Central Co-operative Bank", "National Co-operative Union"],
+    "answer": "State Co-operative Bank",
+    "category": "Banking"
+  },
+  {
+    "id": 51,
+    "question": "Which principle of co-operative banking ensures equality among members?",
+    "options": ["One share, one vote", "Capital-based voting", "Government approval", "Profit distribution"],
+    "answer": "One share, one vote",
+    "category": "Principles"
+  },
+  {
+    "id": 52,
+    "question": "The main function of NABARD is to provide?",
+    "options": ["Refinance facilities", "Stock market investment", "Insurance services", "Foreign exchange"],
+    "answer": "Refinance facilities",
+    "category": "Regulation"
+  },
+  {
+    "id": 53,
+    "question": "Which of the following is not a type of co-operative bank?",
+    "options": ["Primary Co-operative Bank", "Central Co-operative Bank", "State Co-operative Bank", "Commercial Bank"],
+    "answer": "Commercial Bank",
+    "category": "Banking"
+  },
+  {
+    "id": 54,
+    "question": "Co-operative banks provide credit primarily to which sector?",
+    "options": ["Agriculture", "IT", "Manufacturing", "Tourism"],
+    "answer": "Agriculture",
+    "category": "Banking"
+  },
+  {
+    "id": 55,
+    "question": "The Kerala Bank was formed by merging how many banks?",
+    "options": ["12", "14", "15", "10"],
+    "answer": "14",
+    "category": "History"
+  },
+  {
+    "id": 56,
+    "question": "Which of the following is a democratic principle in co-operative banks?",
+    "options": ["One member, one vote", "Voting by shares", "CEO decides", "Government appoints board"],
+    "answer": "One member, one vote",
+    "category": "Principles"
+  },
+  {
+    "id": 57,
+    "question": "In co-operative banking, surplus is shared according to?",
+    "options": ["Use of services", "Capital invested", "Government mandate", "Random selection"],
+    "answer": "Use of services",
+    "category": "Principles"
+  },
+  {
+    "id": 58,
+    "question": "Which is the apex body of co-operative societies in India?",
+    "options": ["NCUI", "RBI", "NABARD", "SEBI"],
+    "answer": "NCUI",
+    "category": "Regulation"
+  },
+  {
+    "id": 59,
+    "question": "The first co-operative bank in India was established in?",
+    "options": ["1904", "1910", "1920", "1930"],
+    "answer": "1904",
+    "category": "History"
+  },
+  {
+    "id": 60,
+    "question": "The main source of funds for co-operative banks is?",
+    "options": ["Member deposits", "Government grants", "Stock market", "International loans"],
+    "answer": "Member deposits",
+    "category": "Banking"
+  },
+  {
+    "id": 61,
+    "question": "Primary co-operative societies usually function at which level?",
+    "options": ["Village", "District", "State", "National"],
+    "answer": "Village",
+    "category": "Banking"
+  },
+  {
+    "id": 62,
+    "question": "Central Co-operative Banks mainly operate at which level?",
+    "options": ["District", "Village", "State", "National"],
+    "answer": "District",
+    "category": "Banking"
+  },
+  {
+    "id": 63,
+    "question": "Which act governs co-operative societies in India?",
+    "options": ["Co-operative Societies Act", "Companies Act", "Banking Regulation Act", "RBI Act"],
+    "answer": "Co-operative Societies Act",
+    "category": "Law"
+  },
+  {
+    "id": 64,
+    "question": "Which institution provides short-term credit to co-operative banks?",
+    "options": ["NABARD", "RBI", "SEBI", "Finance Ministry"],
+    "answer": "NABARD",
+    "category": "Regulation"
+  },
+  {
+    "id": 65,
+    "question": "Which of the following is a key principle of co-operatives?",
+    "options": ["Voluntary membership", "Mandatory government control", "Unlimited liability", "Profit-only focus"],
+    "answer": "Voluntary membership",
+    "category": "Principles"
+  },
+  {
+    "id": 66,
+    "question": "State Co-operative Banks are directly connected to which apex body?",
+    "options": ["NABARD", "RBI", "SEBI", "NCUI"],
+    "answer": "NABARD",
+    "category": "Regulation"
+  },
+  {
+    "id": 67,
+    "question": "Which type of co-operative bank serves rural and semi-urban areas directly?",
+    "options": ["Primary Co-operative Bank", "Central Co-operative Bank", "State Co-operative Bank", "Commercial Bank"],
+    "answer": "Primary Co-operative Bank",
+    "category": "Banking"
+  },
+  {
+    "id": 68,
+    "question": "Which is true about member liability in co-operative banks?",
+    "options": ["Limited liability", "Unlimited liability", "Depends on deposits", "Depends on government approval"],
+    "answer": "Limited liability",
+    "category": "Principles"
+  },
+  {
+    "id": 69,
+    "question": "Which year did NABARD come into existence?",
+    "options": ["1982", "1970", "1965", "1990"],
+    "answer": "1982",
+    "category": "Regulation"
+  },
+  {
+    "id": 70,
+    "question": "The surplus of co-operative societies is distributed based on?",
+    "options": ["Use of services", "Capital invested", "Randomly", "Government policy"],
+    "answer": "Use of services",
+    "category": "Principles"
+  },
+  {
+    "id": 71,
+    "question": "The Kerala State Co-operative Bank primarily serves?",
+    "options": ["Rural and semi-urban members", "Large corporations", "Urban elite", "International clients"],
+    "answer": "Rural and semi-urban members",
+    "category": "Banking"
+  },
+  {
+    "id": 72,
+    "question": "Which principle ensures democratic decision making in co-operatives?",
+    "options": ["One member, one vote", "Voting based on capital", "Government approval", "Random selection"],
+    "answer": "One member, one vote",
+    "category": "Principles"
+  },
+  {
+    "id": 73,
+    "question": "Central Co-operative Banks operate at what level?",
+    "options": ["District", "State", "Village", "National"],
+    "answer": "District",
+    "category": "Banking"
+  },
+  {
+    "id": 74,
+    "question": "The Kerala Bank is the result of merging?",
+    "options": ["State and central co-operative banks", "Private banks", "Commercial banks", "International banks"],
+    "answer": "State and central co-operative banks",
+    "category": "History"
+  },
+  {
+    "id": 75,
+    "question": "Which of the following is NOT a feature of co-operative banks?",
+    "options": ["Democratic management", "Limited liability", "Profit-only focus", "Member benefit"],
+    "answer": "Profit-only focus",
+    "category": "Principles"
+  },
+  {
+    "id": 76,
+    "question": "The main regulator of co-operative banks is?",
+    "options": ["RBI", "SEBI", "NABARD", "Finance Ministry"],
+    "answer": "RBI",
+    "category": "Regulation"
+  },
+  {
+    "id": 77,
+    "question": "The Kerala State Co-operative Federation primarily supports?",
+    "options": ["Agriculture and marketing", "IT and software", "Automobiles", "Education sector"],
+    "answer": "Agriculture and marketing",
+    "category": "Banking"
+  },
+  {
+    "id": 78,
+    "question": "Primary co-operative societies operate under supervision of?",
+    "options": ["Registrar of Co-operative Societies", "RBI", "SEBI", "Finance Ministry"],
+    "answer": "Registrar of Co-operative Societies",
+    "category": "Regulation"
+  },
+  {
+    "id": 79,
+    "question": "Which is a short-term credit provider for agriculture?",
+    "options": ["NABARD", "RBI", "SEBI", "Commercial banks"],
+    "answer": "NABARD",
+    "category": "Regulation"
+  },
+  {
+    "id": 80,
+    "question": "Voting rights in co-operative banks are usually based on?",
+    "options": ["One member, one vote", "Capital contribution", "Government approval", "Loan amount"],
+    "answer": "One member, one vote",
+    "category": "Principles"
+  },
+  {
+    "id": 81,
+    "question": "Which type of co-operative bank serves at the state level?",
+    "options": ["State Co-operative Bank", "Primary Co-operative Bank", "Central Co-operative Bank", "National Bank"],
+    "answer": "State Co-operative Bank",
+    "category": "Banking"
+  },
+  {
+    "id": 82,
+    "question": "Co-operative banking focuses primarily on?",
+    "options": ["Serving members", "Maximizing profit", "Stock trading", "Foreign investment"],
+    "answer": "Serving members",
+    "category": "Principles"
+  },
+  {
+    "id": 83,
+    "question": "Which type of co-operative bank is closest to the people in villages?",
+    "options": ["Primary Co-operative Bank", "Central Co-operative Bank", "State Co-operative Bank", "National Bank"],
+    "answer": "Primary Co-operative Bank",
+    "category": "Banking"
+  },
+  {
+    "id": 84,
+    "question": "NABARD was established to provide which service?",
+    "options": ["Agricultural refinancing", "Commercial loans", "Insurance regulation", "Stock trading"],
+    "answer": "Agricultural refinancing",
+    "category": "Regulation"
+  },
+  {
+    "id": 85,
+    "question": "Which of the following is a guiding principle of co-operatives?",
+    "options": ["Voluntary membership", "Mandatory government control", "Unlimited liability", "Profit-only focus"],
+    "answer": "Voluntary membership",
+    "category": "Principles"
+  },
+  {
+    "id": 86,
+    "question": "Surplus distribution in co-operative banks depends on?",
+    "options": ["Use of services", "Capital invested", "Randomly", "Government order"],
+    "answer": "Use of services",
+    "category": "Principles"
+  },
+  {
+    "id": 87,
+    "question": "The apex body for co-operatives in India is?",
+    "options": ["NCUI", "RBI", "NABARD", "SEBI"],
+    "answer": "NCUI",
+    "category": "Regulation"
+  },
+  {
+    "id": 88,
+    "question": "Primary co-operative societies mostly serve which areas?",
+    "options": ["Rural and semi-urban", "Urban elite", "International investors", "Corporations"],
+    "answer": "Rural and semi-urban",
+    "category": "Banking"
+  },
+  {
+    "id": 89,
+    "question": "Central Co-operative Banks serve mainly at which level?",
+    "options": ["District", "State", "Village", "National"],
+    "answer": "District",
+    "category": "Banking"
+  },
+  {
+    "id": 90,
+    "question": "Kerala Bank was formed in which year?",
+    "options": ["2020", "2018", "2019", "2021"],
+    "answer": "2020",
+    "category": "History"
+  },
+  {
+    "id": 91,
+    "question": "Co-operative banks operate under which type of ownership?",
+    "options": ["Member-owned", "Government-owned", "Private-owned", "Joint-stock company"],
+    "answer": "Member-owned",
+    "category": "Principles"
+  },
+  {
+    "id": 92,
+    "question": "Democratic management in co-operative banks is ensured by?",
+    "options": ["Elected board", "Government appointment", "CEO decision", "Random selection"],
+    "answer": "Elected board",
+    "category": "Principles"
+  },
+  {
+    "id": 93,
+    "question": "Which body supervises co-operative societies at state level?",
+    "options": ["Registrar of Co-operative Societies", "RBI", "SEBI", "Finance Ministry"],
+    "answer": "Registrar of Co-operative Societies",
+    "category": "Regulation"
+  },
+  {
+    "id": 94,
+    "question": "Co-operative banks mainly provide loans to which sector?",
+    "options": ["Agriculture", "IT", "Tourism", "Manufacturing"],
+    "answer": "Agriculture",
+    "category": "Banking"
+  },
+  {
+    "id": 95,
+    "question": "Voting rights in co-operative banks follow which rule?",
+    "options": ["One member, one vote", "Capital contribution", "Loan amount", "Government decision"],
+    "answer": "One member, one vote",
+    "category": "Principles"
+  },
+  {
+    "id": 96,
+    "question": "The Kerala State Co-operative Federation primarily provides?",
+    "options": ["Marketing and credit support", "IT support", "Insurance only", "Education programs"],
+    "answer": "Marketing and credit support",
+    "category": "Banking"
+  },
+  {
+    "id": 97,
+    "question": "Co-operative banks distribute surplus based on?",
+    "options": ["Use of services", "Capital invested", "Random allocation", "Government instruction"],
+    "answer": "Use of services",
+    "category": "Principles"
+  },
+  {
+    "id": 98,
+    "question": "State Co-operative Banks are connected with which apex body?",
+    "options": ["NABARD", "RBI", "NCUI", "SEBI"],
+    "answer": "NABARD",
+    "category": "Regulation"
+  },
+  {
+    "id": 99,
+    "question": "Primary Co-operative Banks operate under supervision of?",
+    "options": ["Central Co-operative Bank", "State Co-operative Bank", "Government only", "NCUI"],
+    "answer": "Central Co-operative Bank",
+    "category": "Banking"
+  },
+  {
+    "id": 100,
+    "question": "Which principle ensures equal participation in co-operative banks?",
+    "options": ["One member, one vote", "Capital-based voting", "Government-controlled", "CEO decision"],
+    "answer": "One member, one vote",
+    "category": "Principles"
+  },
+  {
+    "id": 101,
+    "question": "Which of the following is a short-term co-operative credit society?",
+    "options": ["Primary Agriculture Co-operative Society", "Central Co-operative Bank", "State Co-operative Bank", "NABARD"],
+    "answer": "Primary Agriculture Co-operative Society",
+    "category": "Banking"
+  },
+  {
+    "id": 102,
+    "question": "Co-operative banks are governed by which act in India?",
+    "options": ["Banking Regulation Act", "Companies Act", "Co-operative Societies Act", "RBI Act"],
+    "answer": "Co-operative Societies Act",
+    "category": "Law"
+  },
+  {
+    "id": 103,
+    "question": "Which body provides refinance to co-operative banks?",
+    "options": ["NABARD", "SEBI", "RBI", "Finance Ministry"],
+    "answer": "NABARD",
+    "category": "Regulation"
+  },
+  {
+    "id": 104,
+    "question": "The Kerala Bank is an example of which type of co-operative bank?",
+    "options": ["State Co-operative Bank", "Primary Co-operative Bank", "Central Co-operative Bank", "Commercial Bank"],
+    "answer": "State Co-operative Bank",
+    "category": "Banking"
+  },
+  {
+    "id": 105,
+    "question": "Who supervises Primary Co-operative Banks in India?",
+    "options": ["Central Co-operative Bank", "State Co-operative Bank", "RBI", "NABARD"],
+    "answer": "Central Co-operative Bank",
+    "category": "Regulation"
+  },
+  {
+    "id": 106,
+    "question": "Co-operative banks follow which voting principle?",
+    "options": ["One member, one vote", "Vote based on capital", "Vote by government", "Vote by loan amount"],
+    "answer": "One member, one vote",
+    "category": "Principles"
+  },
+  {
+    "id": 107,
+    "question": "The surplus of co-operative banks is shared based on?",
+    "options": ["Use of services", "Capital contribution", "Government rules", "Random allocation"],
+    "answer": "Use of services",
+    "category": "Principles"
+  },
+  {
+    "id": 108,
+    "question": "Which is an apex organization for co-operatives in India?",
+    "options": ["NCUI", "RBI", "NABARD", "SEBI"],
+    "answer": "NCUI",
+    "category": "Regulation"
+  },
+  {
+    "id": 109,
+    "question": "Which type of co-operative bank operates at district level?",
+    "options": ["Central Co-operative Bank", "Primary Co-operative Bank", "State Co-operative Bank", "National Bank"],
+    "answer": "Central Co-operative Bank",
+    "category": "Banking"
+  },
+  {
+    "id": 110,
+    "question": "The first co-operative bank in India was established in which year?",
+    "options": ["1904", "1912", "1920", "1935"],
+    "answer": "1904",
+    "category": "History"
+  },
+  {
+    "id": 111,
+    "question": "Which sector is the main beneficiary of co-operative bank loans?",
+    "options": ["Agriculture", "IT", "Tourism", "Manufacturing"],
+    "answer": "Agriculture",
+    "category": "Banking"
+  },
+  {
+    "id": 112,
+    "question": "Kerala Bank was formed by merging how many banks?",
+    "options": ["14", "12", "10", "15"],
+    "answer": "14",
+    "category": "History"
+  },
+  {
+    "id": 113,
+    "question": "Primary co-operative societies usually function at which level?",
+    "options": ["Village", "District", "State", "National"],
+    "answer": "Village",
+    "category": "Banking"
+  },
+  {
+    "id": 114,
+    "question": "State Co-operative Banks primarily operate at which level?",
+    "options": ["State", "Village", "District", "National"],
+    "answer": "State",
+    "category": "Banking"
+  },
+  {
+    "id": 115,
+    "question": "Which principle ensures voluntary participation in co-operatives?",
+    "options": ["Voluntary membership", "Government control", "Capital-based voting", "CEO decision"],
+    "answer": "Voluntary membership",
+    "category": "Principles"
+  },
+  {
+    "id": 116,
+    "question": "Which regulator governs co-operative banks in India?",
+    "options": ["RBI", "SEBI", "NABARD", "NCUI"],
+    "answer": "RBI",
+    "category": "Regulation"
+  },
+  {
+    "id": 117,
+    "question": "Central Co-operative Banks serve primarily which members?",
+    "options": ["Primary societies", "State banks", "Commercial banks", "International clients"],
+    "answer": "Primary societies",
+    "category": "Banking"
+  },
+  {
+    "id": 118,
+    "question": "Limited liability in co-operative banks applies to?",
+    "options": ["Members", "Government", "Bank employees", "Board members"],
+    "answer": "Members",
+    "category": "Principles"
+  },
+  {
+    "id": 119,
+    "question": "NABARD was established in which year?",
+    "options": ["1982", "1975", "1990", "1980"],
+    "answer": "1982",
+    "category": "Regulation"
+  },
+  {
+    "id": 120,
+    "question": "Which type of co-operative bank is closest to the rural people?",
+    "options": ["Primary Co-operative Bank", "Central Co-operative Bank", "State Co-operative Bank", "Commercial Bank"],
+    "answer": "Primary Co-operative Bank",
+    "category": "Banking"
+  },
+  {
+    "id": 121,
+    "question": "Surplus distribution in co-operatives depends on?",
+    "options": ["Use of services", "Capital invested", "Randomly", "Government order"],
+    "answer": "Use of services",
+    "category": "Principles"
+  },
+  {
+    "id": 122,
+    "question": "The apex body for co-operative societies in India is?",
+    "options": ["NCUI", "RBI", "NABARD", "SEBI"],
+    "answer": "NCUI",
+    "category": "Regulation"
+  },
+  {
+    "id": 123,
+    "question": "Which co-operative bank serves at district level?",
+    "options": ["Central Co-operative Bank", "Primary Co-operative Bank", "State Co-operative Bank", "National Bank"],
+    "answer": "Central Co-operative Bank",
+    "category": "Banking"
+  },
+  {
+    "id": 124,
+    "question": "Kerala State Co-operative Federation primarily provides?",
+    "options": ["Agriculture marketing support", "IT services", "Insurance only", "Education programs"],
+    "answer": "Agriculture marketing support",
+    "category": "Banking"
+  },
+  {
+    "id": 125,
+    "question": "Which principle ensures democratic governance in co-operatives?",
+    "options": ["One member, one vote", "Capital-based voting", "Government approval", "CEO decision"],
+    "answer": "One member, one vote",
+    "category": "Principles"
+  },
+  {
+    "id": 126,
+    "question": "The Kerala Bank merger involved which type of banks?",
+    "options": ["State and central co-operative banks", "Private banks", "Commercial banks", "International banks"],
+    "answer": "State and central co-operative banks",
+    "category": "History"
+  },
+  {
+    "id": 127,
+    "question": "Which body supervises primary co-operative societies at state level?",
+    "options": ["Registrar of Co-operative Societies", "RBI", "SEBI", "Finance Ministry"],
+    "answer": "Registrar of Co-operative Societies",
+    "category": "Regulation"
+  },
+  {
+    "id": 128,
+    "question": "State Co-operative Banks are connected to which apex body?",
+    "options": ["NABARD", "RBI", "NCUI", "SEBI"],
+    "answer": "NABARD",
+    "category": "Regulation"
+  },
+  {
+    "id": 129,
+    "question": "Primary co-operative banks primarily serve?",
+    "options": ["Village and rural members", "Large corporations", "Urban elite", "International clients"],
+    "answer": "Village and rural members",
+    "category": "Banking"
+  },
+  {
+    "id": 130,
+    "question": "Co-operative banks aim to serve?",
+    "options": ["Members", "Maximize profit", "Stock market", "Foreign investors"],
+    "answer": "Members",
+    "category": "Principles"
+  },
+  {
+    "id": 131,
+    "question": "Which institution regulates co-operative banks along with RBI?",
+    "options": ["NABARD", "SEBI", "NCUI", "Finance Ministry"],
+    "answer": "NABARD",
+    "category": "Regulation"
+  },
+  {
+    "id": 132,
+    "question": "Which type of co-operative bank serves semi-urban areas directly?",
+    "options": ["Primary Co-operative Bank", "Central Co-operative Bank", "State Co-operative Bank", "Commercial Bank"],
+    "answer": "Primary Co-operative Bank",
+    "category": "Banking"
+  },
+  {
+    "id": 133,
+    "question": "Limited liability in co-operatives protects whom?",
+    "options": ["Members", "Board members", "Government", "Employees"],
+    "answer": "Members",
+    "category": "Principles"
+  },
+  {
+    "id": 134,
+    "question": "The first co-operative bank in Kerala was established in which year?",
+    "options": ["1904", "1910", "1920", "1930"],
+    "answer": "1904",
+    "category": "History"
+  },
+  {
+    "id": 135,
+    "question": "Which principle emphasizes democratic management?",
+    "options": ["One member, one vote", "Capital-based voting", "Government control", "CEO decision"],
+    "answer": "One member, one vote",
+    "category": "Principles"
+  },
+  {
+    "id": 136,
+    "question": "Primary Co-operative Banks are supervised by?",
+    "options": ["Central Co-operative Bank", "State Co-operative Bank", "RBI", "NABARD"],
+    "answer": "Central Co-operative Bank",
+    "category": "Regulation"
+  },
+  {
+    "id": 137,
+    "question": "Surplus in co-operative banks is shared according to?",
+    "options": ["Use of services", "Capital contribution", "Government decision", "Random allocation"],
+    "answer": "Use of services",
+    "category": "Principles"
+  },
+  {
+    "id": 138,
+    "question": "State Co-operative Banks are part of which structure?",
+    "options": ["Three-tier co-operative structure", "Private banking structure", "Commercial banking network", "International banking"],
+    "answer": "Three-tier co-operative structure",
+    "category": "Banking"
+  },
+  {
+    "id": 139,
+    "question": "Which institution primarily provides agricultural refinance?",
+    "options": ["NABARD", "RBI", "SEBI", "Finance Ministry"],
+    "answer": "NABARD",
+    "category": "Regulation"
+  },
+  {
+    "id": 140,
+    "question": "Which is the apex co-operative body at national level?",
+    "options": ["NCUI", "NABARD", "RBI", "SEBI"],
+    "answer": "NCUI",
+    "category": "Regulation"
+  },
+  {
+    "id": 141,
+    "question": "Kerala Bank serves primarily which members?",
+    "options": ["Rural and semi-urban", "Urban elite", "International clients", "Corporate investors"],
+    "answer": "Rural and semi-urban",
+    "category": "Banking"
+  },
+  {
+    "id": 142,
+    "question": "Central Co-operative Banks operate at which level?",
+    "options": ["District", "State", "Village", "National"],
+    "answer": "District",
+    "category": "Banking"
+  },
+  {
+    "id": 143,
+    "question": "Which principle ensures equality in co-operative decision-making?",
+    "options": ["One member, one vote", "Capital-based voting", "Government appointment", "Random selection"],
+    "answer": "One member, one vote",
+    "category": "Principles"
+  },
+  {
+    "id": 144,
+    "question": "Co-operative banks provide credit primarily to?",
+    "options": ["Agriculture sector", "IT sector", "Tourism sector", "Manufacturing sector"],
+    "answer": "Agriculture sector",
+    "category": "Banking"
+  },
+  {
+    "id": 145,
+    "question": "State Co-operative Banks report to which apex body for refinancing?",
+    "options": ["NABARD", "RBI", "NCUI", "SEBI"],
+    "answer": "NABARD",
+    "category": "Regulation"
+  },
+  {
+    "id": 146,
+    "question": "Voluntary membership is a principle of?",
+    "options": ["Co-operatives", "Private banks", "Commercial banks", "Government banks"],
+    "answer": "Co-operatives",
+    "category": "Principles"
+  },
+  {
+    "id": 147,
+    "question": "Kerala Bank was formed by merging banks at which levels?",
+    "options": ["State and central co-operative banks", "Private banks", "Commercial banks", "National banks"],
+    "answer": "State and central co-operative banks",
+    "category": "History"
+  },
+  {
+    "id": 148,
+    "question": "Which regulator directly supervises co-operative banks?",
+    "options": ["RBI", "SEBI", "NCUI", "Finance Ministry"],
+    "answer": "RBI",
+    "category": "Regulation"
+  },
+  {
+    "id": 149,
+    "question": "Primary Co-operative Banks function at which level?",
+    "options": ["Village", "District", "State", "National"],
+    "answer": "Village",
+    "category": "Banking"
+  },
+  {
+    "id": 150,
+    "question": "Surplus sharing in co-operatives depends on?",
+    "options": ["Use of services", "Capital invested", "Random allocation", "Government order"],
+    "answer": "Use of services",
+    "category": "Principles"
+  },
+  {
+    "id": 151,
+    "question": "Central Co-operative Banks are primarily supervised by?",
+    "options": ["State Co-operative Banks", "Primary Co-operative Banks", "RBI", "NABARD"],
+    "answer": "State Co-operative Banks",
+    "category": "Regulation"
+  },
+  {
+    "id": 152,
+    "question": "Co-operative banks follow which type of ownership?",
+    "options": ["Member-owned", "Government-owned", "Private-owned", "Joint-stock company"],
+    "answer": "Member-owned",
+    "category": "Principles"
+  },
+  {
+    "id": 153,
+    "question": "Which principle ensures democratic decision-making?",
+    "options": ["One member, one vote", "Capital-based voting", "Government control", "Random selection"],
+    "answer": "One member, one vote",
+    "category": "Principles"
+  },
+  {
+    "id": 154,
+    "question": "Kerala Bank primarily serves which type of clients?",
+    "options": ["Rural and semi-urban", "Urban elite", "International clients", "Corporations"],
+    "answer": "Rural and semi-urban",
+    "category": "Banking"
+  },
+  {
+    "id": 155,
+    "question": "NABARD provides which of the following to co-operative banks?",
+    "options": ["Refinance", "Insurance", "Direct lending to members", "Investment banking"],
+    "answer": "Refinance",
+    "category": "Regulation"
+  },
+  {
+    "id": 156,
+    "question": "Which co-operative bank operates at village level?",
+    "options": ["Primary Co-operative Bank", "Central Co-operative Bank", "State Co-operative Bank", "National Bank"],
+    "answer": "Primary Co-operative Bank",
+    "category": "Banking"
+  },
+  {
+    "id": 157,
+    "question": "State Co-operative Banks function primarily at which level?",
+    "options": ["State", "District", "Village", "National"],
+    "answer": "State",
+    "category": "Banking"
+  },
+  {
+    "id": 158,
+    "question": "Which principle emphasizes voluntary participation?",
+    "options": ["Voluntary membership", "Government control", "Capital-based voting", "CEO decision"],
+    "answer": "Voluntary membership",
+    "category": "Principles"
+  },
+  {
+    "id": 159,
+    "question": "Co-operative banks aim to benefit primarily?",
+    "options": ["Members", "Shareholders", "Government", "International investors"],
+    "answer": "Members",
+    "category": "Principles"
+  },
+  {
+    "id": 160,
+    "question": "Who supervises Primary Co-operative Banks in India?",
+    "options": ["Central Co-operative Banks", "State Co-operative Banks", "RBI", "NABARD"],
+    "answer": "Central Co-operative Banks",
+    "category": "Regulation"
+  },
+  {
+    "id": 161,
+    "question": "Kerala Bank was formed by merging?",
+    "options": ["State and central co-operative banks", "Private banks", "Commercial banks", "National banks"],
+    "answer": "State and central co-operative banks",
+    "category": "History"
+  },
+  {
+    "id": 162,
+    "question": "Central Co-operative Banks primarily serve?",
+    "options": ["Primary societies", "State banks", "Commercial banks", "International clients"],
+    "answer": "Primary societies",
+    "category": "Banking"
+  },
+  {
+    "id": 163,
+    "question": "Voting rights in co-operative banks follow which rule?",
+    "options": ["One member, one vote", "Capital contribution", "Loan amount", "Government decision"],
+    "answer": "One member, one vote",
+    "category": "Principles"
+  },
+  {
+    "id": 164,
+    "question": "Which principle ensures limited liability of members?",
+    "options": ["Limited liability", "Unlimited liability", "Government liability", "CEO liability"],
+    "answer": "Limited liability",
+    "category": "Principles"
+  },
+  {
+    "id": 165,
+    "question": "Primary co-operative societies usually operate at what level?",
+    "options": ["Village", "District", "State", "National"],
+    "answer": "Village",
+    "category": "Banking"
+  },
+  {
+    "id": 166,
+    "question": "State Co-operative Banks are connected with which apex body for refinance?",
+    "options": ["NABARD", "RBI", "NCUI", "SEBI"],
+    "answer": "NABARD",
+    "category": "Regulation"
+  },
+  {
+    "id": 167,
+    "question": "Surplus in co-operative banks is distributed based on?",
+    "options": ["Use of services", "Capital invested", "Random allocation", "Government order"],
+    "answer": "Use of services",
+    "category": "Principles"
+  },
+  {
+    "id": 168,
+    "question": "Which co-operative bank serves semi-urban and rural members directly?",
+    "options": ["Primary Co-operative Bank", "Central Co-operative Bank", "State Co-operative Bank", "National Bank"],
+    "answer": "Primary Co-operative Bank",
+    "category": "Banking"
+  },
+  {
+    "id": 169,
+    "question": "The apex body for co-operatives at the national level is?",
+    "options": ["NCUI", "NABARD", "RBI", "SEBI"],
+    "answer": "NCUI",
+    "category": "Regulation"
+  },
+  {
+    "id": 170,
+    "question": "Kerala State Co-operative Federation supports primarily?",
+    "options": ["Agriculture and marketing", "IT sector", "Tourism", "Education"],
+    "answer": "Agriculture and marketing",
+    "category": "Banking"
+  },
+  {
+    "id": 171,
+    "question": "Central Co-operative Banks operate at which administrative level?",
+    "options": ["District", "State", "Village", "National"],
+    "answer": "District",
+    "category": "Banking"
+  },
+  {
+    "id": 172,
+    "question": "Which principle guarantees equal voting rights?",
+    "options": ["One member, one vote", "Capital-based voting", "Government-controlled voting", "Random selection"],
+    "answer": "One member, one vote",
+    "category": "Principles"
+  },
+  {
+    "id": 173,
+    "question": "Primary Co-operative Banks are closest to which members?",
+    "options": ["Rural and village members", "Corporate clients", "Urban elite", "International investors"],
+    "answer": "Rural and village members",
+    "category": "Banking"
+  },
+  {
+    "id": 174,
+    "question": "Who regulates co-operative banks along with RBI?",
+    "options": ["NABARD", "SEBI", "NCUI", "Finance Ministry"],
+    "answer": "NABARD",
+    "category": "Regulation"
+  },
+  {
+    "id": 175,
+    "question": "Kerala Bank merger involved which levels of banks?",
+    "options": ["State and central co-operative banks", "Private banks", "Commercial banks", "National banks"],
+    "answer": "State and central co-operative banks",
+    "category": "History"
+  },
+  {
+    "id": 176,
+    "question": "Voluntary membership is a principle of which type of banks?",
+    "options": ["Co-operative banks", "Private banks", "Commercial banks", "Government banks"],
+    "answer": "Co-operative banks",
+    "category": "Principles"
+  },
+  {
+    "id": 177,
+    "question": "Surplus distribution in co-operative banks depends on?",
+    "options": ["Use of services", "Capital invested", "Random allocation", "Government instruction"],
+    "answer": "Use of services",
+    "category": "Principles"
+  },
+  {
+    "id": 178,
+    "question": "Primary co-operative societies are usually supervised by?",
+    "options": ["Registrar of Co-operative Societies", "RBI", "NCUI", "Finance Ministry"],
+    "answer": "Registrar of Co-operative Societies",
+    "category": "Regulation"
+  },
+  {
+    "id": 179,
+    "question": "Co-operative banks provide credit mainly to which sector?",
+    "options": ["Agriculture", "IT", "Tourism", "Manufacturing"],
+    "answer": "Agriculture",
+    "category": "Banking"
+  },
+  {
+    "id": 180,
+    "question": "State Co-operative Banks function at which level?",
+    "options": ["State", "District", "Village", "National"],
+    "answer": "State",
+    "category": "Banking"
+  },
+  {
+    "id": 181,
+    "question": "Limited liability in co-operatives protects?",
+    "options": ["Members", "Government", "Board members", "Employees"],
+    "answer": "Members",
+    "category": "Principles"
+  },
+  {
+    "id": 182,
+    "question": "NABARD was established in which year?",
+    "options": ["1982", "1975", "1990", "1980"],
+    "answer": "1982",
+    "category": "Regulation"
+  },
+  {
+    "id": 183,
+    "question": "Kerala Bank serves primarily which clients?",
+    "options": ["Rural and semi-urban", "Urban elite", "Corporate investors", "International clients"],
+    "answer": "Rural and semi-urban",
+    "category": "Banking"
+  },
+  {
+    "id": 184,
+    "question": "Which principle ensures democratic governance in co-operatives?",
+    "options": ["One member, one vote", "Capital-based voting", "Government control", "CEO decision"],
+    "answer": "One member, one vote",
+    "category": "Principles"
+  },
+  {
+    "id": 185,
+    "question": "Central Co-operative Banks primarily serve?",
+    "options": ["Primary societies", "State banks", "Commercial banks", "International clients"],
+    "answer": "Primary societies",
+    "category": "Banking"
+  },
+  {
+    "id": 186,
+    "question": "Voting rights in co-operative banks follow?",
+    "options": ["One member, one vote", "Capital contribution", "Government decision", "Loan amount"],
+    "answer": "One member, one vote",
+    "category": "Principles"
+  },
+  {
+    "id": 187,
+    "question": "Surplus in co-operative banks is shared according to?",
+    "options": ["Use of services", "Capital invested", "Random allocation", "Government decision"],
+    "answer": "Use of services",
+    "category": "Principles"
+  },
+  {
+    "id": 188,
+    "question": "Kerala State Co-operative Federation supports?",
+    "options": ["Agriculture and marketing", "IT sector", "Tourism", "Education"],
+    "answer": "Agriculture and marketing",
+    "category": "Banking"
+  },
+  {
+    "id": 189,
+    "question": "Primary Co-operative Banks function at what level?",
+    "options": ["Village", "District", "State", "National"],
+    "answer": "Village",
+    "category": "Banking"
+  },
+  {
+    "id": 190,
+    "question": "State Co-operative Banks are connected to which apex body?",
+    "options": ["NABARD", "RBI", "NCUI", "SEBI"],
+    "answer": "NABARD",
+    "category": "Regulation"
+  },
+  {
+    "id": 191,
+    "question": "Which co-operative bank serves semi-urban members?",
+    "options": ["Primary Co-operative Bank", "Central Co-operative Bank", "State Co-operative Bank", "National Bank"],
+    "answer": "Primary Co-operative Bank",
+    "category": "Banking"
+  },
+  {
+    "id": 192,
+    "question": "Limited liability in co-operative banks protects?",
+    "options": ["Members", "Board members", "Government", "Employees"],
+    "answer": "Members",
+    "category": "Principles"
+  },
+  {
+    "id": 193,
+    "question": "The apex co-operative organization in India is?",
+    "options": ["NCUI", "NABARD", "RBI", "SEBI"],
+    "answer": "NCUI",
+    "category": "Regulation"
+  },
+  {
+    "id": 194,
+    "question": "Co-operative banks operate under which type of ownership?",
+    "options": ["Member-owned", "Private-owned", "Government-owned", "Joint-stock company"],
+    "answer": "Member-owned",
+    "category": "Principles"
+  },
+  {
+    "id": 195,
+    "question": "Which principle ensures equal voting rights?",
+    "options": ["One member, one vote", "Capital-based voting", "Government-controlled", "Random selection"],
+    "answer": "One member, one vote",
+    "category": "Principles"
+  },
+  {
+    "id": 196,
+    "question": "NABARD provides refinance to which type of banks?",
+    "options": ["Co-operative banks", "Commercial banks", "Private banks", "National banks"],
+    "answer": "Co-operative banks",
+    "category": "Regulation"
+  },
+  {
+    "id": 197,
+    "question": "Kerala Bank merger involved?",
+    "options": ["State and central co-operative banks", "Private banks", "Commercial banks", "National banks"],
+    "answer": "State and central co-operative banks",
+    "category": "History"
+  },
+  {
+    "id": 198,
+    "question": "Primary Co-operative Banks are supervised by?",
+    "options": ["Central Co-operative Banks", "State Co-operative Banks", "RBI", "NABARD"],
+    "answer": "Central Co-operative Banks",
+    "category": "Regulation"
+  },
+  {
+    "id": 199,
+    "question": "Kerala State Co-operative Federation supports primarily?",
+    "options": ["Agriculture and marketing", "IT sector", "Tourism", "Education"],
+    "answer": "Agriculture and marketing",
+    "category": "Banking"
+  },
+  {
+    "id": 200,
+    "question": "The main principle of co-operative banking is?",
+    "options": ["Serving members", "Profit maximization", "International investments", "Government control"],
+    "answer": "Serving members",
+    "category": "Principles"
+  },
+  {
+    "_comment": "This is a comment, describing the MCQs below.This is biology related questions",
+    "id": 201,
+    "question": "Which organelle is known as the powerhouse of the cell?",
+    "options": ["Mitochondria", "Nucleus", "Ribosome", "Chloroplast"],
+    "answer": "Mitochondria",
+    "category": "Biology"
+  },
+  {
+    "id": 202,
+    "question": "Which blood cells help in clotting?",
+    "options": ["Platelets", "Red blood cells", "White blood cells", "Plasma"],
+    "answer": "Platelets",
+    "category": "Biology"
+  },
+  {
+    "id": 203,
+    "question": "What is the basic unit of life?",
+    "options": ["Cell", "Tissue", "Organ", "Molecule"],
+    "answer": "Cell",
+    "category": "Biology"
+  },
+  {
+    "id": 204,
+    "question": "Which vitamin is essential for blood clotting?",
+    "options": ["Vitamin K", "Vitamin C", "Vitamin D", "Vitamin A"],
+    "answer": "Vitamin K",
+    "category": "Biology"
+  },
+  {
+    "id": 205,
+    "question": "Which type of blood group is considered universal donor?",
+    "options": ["O negative", "AB positive", "A positive", "B negative"],
+    "answer": "O negative",
+    "category": "Biology"
+  },
+  {
+    "id": 206,
+    "question": "DNA is made up of which type of biomolecule?",
+    "options": ["Nucleic acids", "Proteins", "Lipids", "Carbohydrates"],
+    "answer": "Nucleic acids",
+    "category": "Biology"
+  },
+  {
+    "id": 207,
+    "question": "Which part of the plant transports water?",
+    "options": ["Xylem", "Phloem", "Cambium", "Epidermis"],
+    "answer": "Xylem",
+    "category": "Biology"
+  },
+  {
+    "id": 208,
+    "question": "The process of converting glucose into energy in cells is called?",
+    "options": ["Cellular respiration", "Photosynthesis", "Transpiration", "Fermentation"],
+    "answer": "Cellular respiration",
+    "category": "Biology"
+  },
+  {
+    "id": 209,
+    "question": "Which vitamin is essential for vision?",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin E"],
+    "answer": "Vitamin A",
+    "category": "Biology"
+  },
+  {
+    "id": 210,
+    "question": "Which blood vessels carry blood away from the heart?",
+    "options": ["Arteries", "Veins", "Capillaries", "Venules"],
+    "answer": "Arteries",
+    "category": "Biology"
+  },
+  {
+    "id": 211,
+    "question": "Which organ produces insulin?",
+    "options": ["Pancreas", "Liver", "Kidney", "Spleen"],
+    "answer": "Pancreas",
+    "category": "Biology"
+  },
+  {
+    "id": 212,
+    "question": "Which blood cells fight infections?",
+    "options": ["White blood cells", "Red blood cells", "Platelets", "Plasma"],
+    "answer": "White blood cells",
+    "category": "Biology"
+  },
+  {
+    "id": 213,
+    "question": "The powerhouse of the plant cell is?",
+    "options": ["Chloroplast", "Mitochondria", "Nucleus", "Ribosome"],
+    "answer": "Mitochondria",
+    "category": "Biology"
+  },
+  {
+    "id": 214,
+    "question": "Which process occurs in chloroplasts?",
+    "options": ["Photosynthesis", "Cellular respiration", "Fermentation", "Diffusion"],
+    "answer": "Photosynthesis",
+    "category": "Biology"
+  },
+  {
+    "id": 215,
+    "question": "Which gas is released during photosynthesis?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen",
+    "category": "Biology"
+  },
+  {
+    "id": 216,
+    "question": "Which organ filters blood in humans?",
+    "options": ["Kidney", "Liver", "Heart", "Spleen"],
+    "answer": "Kidney",
+    "category": "Biology"
+  },
+  {
+    "id": 217,
+    "question": "Which part of the brain controls balance?",
+    "options": ["Cerebellum", "Cerebrum", "Medulla", "Hypothalamus"],
+    "answer": "Cerebellum",
+    "category": "Biology"
+  },
+  {
+    "id": 218,
+    "question": "Which is the largest organ in the human body?",
+    "options": ["Skin", "Liver", "Heart", "Lung"],
+    "answer": "Skin",
+    "category": "Biology"
+  },
+  {
+    "id": 219,
+    "question": "Red blood cells contain which pigment?",
+    "options": ["Hemoglobin", "Chlorophyll", "Myoglobin", "Melanin"],
+    "answer": "Hemoglobin",
+    "category": "Biology"
+  },
+  {
+    "id": 220,
+    "question": "Which hormone regulates metabolism?",
+    "options": ["Thyroxine", "Insulin", "Adrenaline", "Cortisol"],
+    "answer": "Thyroxine",
+    "category": "Biology"
+  },
+  {
+    "id": 221,
+    "question": "Which vitamin prevents scurvy?",
+    "options": ["Vitamin C", "Vitamin D", "Vitamin A", "Vitamin K"],
+    "answer": "Vitamin C",
+    "category": "Biology"
+  },
+  {
+    "id": 222,
+    "question": "Which cell organelle is responsible for protein synthesis?",
+    "options": ["Ribosome", "Mitochondria", "Nucleus", "Golgi body"],
+    "answer": "Ribosome",
+    "category": "Biology"
+  },
+  {
+    "id": 223,
+    "question": "Which type of blood group is considered universal recipient?",
+    "options": ["AB positive", "O negative", "A positive", "B negative"],
+    "answer": "AB positive",
+    "category": "Biology"
+  },
+  {
+    "id": 224,
+    "question": "Which is the smallest unit of an element?",
+    "options": ["Atom", "Molecule", "Cell", "Organ"],
+    "answer": "Atom",
+    "category": "Biology"
+  },
+  {
+    "id": 225,
+    "question": "Which is the process of water movement from roots to leaves?",
+    "options": ["Transpiration", "Photosynthesis", "Respiration", "Diffusion"],
+    "answer": "Transpiration",
+    "category": "Biology"
+  },
+  {
+    "id": 226,
+    "question": "Which tissue connects muscles to bones?",
+    "options": ["Tendon", "Ligament", "Cartilage", "Nerve"],
+    "answer": "Tendon",
+    "category": "Biology"
+  },
+  {
+    "id": 227,
+    "question": "Ligaments connect which parts?",
+    "options": ["Bone to bone", "Muscle to bone", "Organ to organ", "Cell to cell"],
+    "answer": "Bone to bone",
+    "category": "Biology"
+  },
+  {
+    "id": 228,
+    "question": "Which gas is essential for respiration?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen",
+    "category": "Biology"
+  },
+  {
+    "id": 229,
+    "question": "Which part of the human brain regulates heartbeat and breathing?",
+    "options": ["Medulla", "Cerebrum", "Cerebellum", "Hypothalamus"],
+    "answer": "Medulla",
+    "category": "Biology"
+  },
+  {
+    "id": 230,
+    "question": "Which blood component carries oxygen?",
+    "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "answer": "Red blood cells",
+    "category": "Biology"
+  },
+  {
+    "id": 231,
+    "question": "Which organ stores bile?",
+    "options": ["Gallbladder", "Liver", "Pancreas", "Stomach"],
+    "answer": "Gallbladder",
+    "category": "Biology"
+  },
+  {
+    "id": 232,
+    "question": "Which sugar is found in DNA?",
+    "options": ["Deoxyribose", "Ribose", "Glucose", "Fructose"],
+    "answer": "Deoxyribose",
+    "category": "Biology"
+  },
+  {
+    "id": 233,
+    "question": "Which part of the eye controls the amount of light entering?",
+    "options": ["Iris", "Cornea", "Lens", "Retina"],
+    "answer": "Iris",
+    "category": "Biology"
+  },
+  {
+    "id": 234,
+    "question": "Which part of the brain controls voluntary movements?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+    "answer": "Cerebrum",
+    "category": "Biology"
+  },
+  {
+    "id": 235,
+    "question": "Which gas is absorbed by plants during photosynthesis?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon dioxide",
+    "category": "Biology"
+  },
+  {
+    "id": 236,
+    "question": "Which hormone is called the stress hormone?",
+    "options": ["Cortisol", "Insulin", "Thyroxine", "Adrenaline"],
+    "answer": "Cortisol",
+    "category": "Biology"
+  },
+  {
+    "id": 237,
+    "question": "Which cell organelle modifies and packages proteins?",
+    "options": ["Golgi apparatus", "Ribosome", "Nucleus", "Mitochondria"],
+    "answer": "Golgi apparatus",
+    "category": "Biology"
+  },
+  {
+    "id": 238,
+    "question": "Which vitamin is synthesized in the skin upon sunlight exposure?",
+    "options": ["Vitamin D", "Vitamin A", "Vitamin K", "Vitamin C"],
+    "answer": "Vitamin D",
+    "category": "Biology"
+  },
+  {
+    "id": 239,
+    "question": "Which type of reproduction involves only one parent?",
+    "options": ["Asexual reproduction", "Sexual reproduction", "Fertilization", "Pollination"],
+    "answer": "Asexual reproduction",
+    "category": "Biology"
+  },
+  {
+    "id": 240,
+    "question": "Which part of the human body contains the maximum number of bones?",
+    "options": ["Hand", "Foot", "Skull", "Spine"],
+    "answer": "Hand",
+    "category": "Biology"
+  },
+  {
+    "id": 241,
+    "question": "Which organ is responsible for detoxification in the human body?",
+    "options": ["Liver", "Kidney", "Lungs", "Spleen"],
+    "answer": "Liver",
+    "category": "Biology"
+  },
+  {
+    "id": 242,
+    "question": "Which blood group is called universal recipient?",
+    "options": ["AB positive", "O negative", "A positive", "B negative"],
+    "answer": "AB positive",
+    "category": "Biology"
+  },
+  {
+    "id": 243,
+    "question": "Which vitamin deficiency causes rickets?",
+    "options": ["Vitamin D", "Vitamin C", "Vitamin A", "Vitamin K"],
+    "answer": "Vitamin D",
+    "category": "Biology"
+  },
+  {
+    "id": 244,
+    "question": "Which part of the human brain regulates body temperature?",
+    "options": ["Hypothalamus", "Cerebrum", "Cerebellum", "Medulla"],
+    "answer": "Hypothalamus",
+    "category": "Biology"
+  },
+  {
+    "id": 245,
+    "question": "Which cell organelle contains digestive enzymes?",
+    "options": ["Lysosome", "Ribosome", "Golgi apparatus", "Nucleus"],
+    "answer": "Lysosome",
+    "category": "Biology"
+  },
+  {
+    "id": 246,
+    "question": "Which blood component helps fight bacterial infections?",
+    "options": ["White blood cells", "Red blood cells", "Platelets", "Plasma"],
+    "answer": "White blood cells",
+    "category": "Biology"
+  },
+  {
+    "id": 247,
+    "question": "Which vitamin helps in wound healing?",
+    "options": ["Vitamin C", "Vitamin D", "Vitamin K", "Vitamin A"],
+    "answer": "Vitamin C",
+    "category": "Biology"
+  },
+  {
+    "id": 248,
+    "question": "Which hormone is secreted by adrenal glands during stress?",
+    "options": ["Adrenaline", "Insulin", "Thyroxine", "Cortisol"],
+    "answer": "Adrenaline",
+    "category": "Biology"
+  },
+  {
+    "id": 249,
+    "question": "Which part of the eye detects light?",
+    "options": ["Retina", "Lens", "Cornea", "Iris"],
+    "answer": "Retina",
+    "category": "Biology"
+  },
+  {
+    "id": 250,
+    "question": "Which process is responsible for water movement in plants?",
+    "options": ["Transpiration", "Respiration", "Photosynthesis", "Diffusion"],
+    "answer": "Transpiration",
+    "category": "Biology"
+  },
+  {
+    "id": 251,
+    "question": "Which tissue connects bones to bones?",
+    "options": ["Ligament", "Tendon", "Cartilage", "Muscle"],
+    "answer": "Ligament",
+    "category": "Biology"
+  },
+  {
+    "id": 252,
+    "question": "Which type of reproduction involves two parents?",
+    "options": ["Sexual reproduction", "Asexual reproduction", "Binary fission", "Budding"],
+    "answer": "Sexual reproduction",
+    "category": "Biology"
+  },
+  {
+    "id": 253,
+    "question": "Which organ secretes bile?",
+    "options": ["Liver", "Pancreas", "Gallbladder", "Kidney"],
+    "answer": "Liver",
+    "category": "Biology"
+  },
+  {
+    "id": 254,
+    "question": "Which vitamin deficiency causes night blindness?",
+    "options": ["Vitamin A", "Vitamin D", "Vitamin E", "Vitamin K"],
+    "answer": "Vitamin A",
+    "category": "Biology"
+  },
+  {
+    "id": 255,
+    "question": "Which gas is released during photosynthesis?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen",
+    "category": "Biology"
+  },
+  {
+    "id": 256,
+    "question": "Which part of the brain is responsible for voluntary movements?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla", "Pons"],
+    "answer": "Cerebrum",
+    "category": "Biology"
+  },
+  {
+    "id": 257,
+    "question": "Which organ stores and concentrates urine?",
+    "options": ["Urinary bladder", "Kidney", "Ureter", "Urethra"],
+    "answer": "Urinary bladder",
+    "category": "Biology"
+  },
+  {
+    "id": 258,
+    "question": "Which component of blood transports oxygen?",
+    "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "answer": "Red blood cells",
+    "category": "Biology"
+  },
+  {
+    "id": 259,
+    "question": "Which vitamin is essential for calcium absorption?",
+    "options": ["Vitamin D", "Vitamin A", "Vitamin C", "Vitamin K"],
+    "answer": "Vitamin D",
+    "category": "Biology"
+  },
+  {
+    "id": 260,
+    "question": "Which organ in humans regulates water balance?",
+    "options": ["Kidney", "Liver", "Spleen", "Pancreas"],
+    "answer": "Kidney",
+    "category": "Biology"
+  },
+  {
+    "id": 261,
+    "question": "Which organelle synthesizes proteins?",
+    "options": ["Ribosome", "Mitochondria", "Golgi apparatus", "Nucleus"],
+    "answer": "Ribosome",
+    "category": "Biology"
+  },
+  {
+    "id": 262,
+    "question": "Which hormone lowers blood sugar?",
+    "options": ["Insulin", "Glucagon", "Adrenaline", "Cortisol"],
+    "answer": "Insulin",
+    "category": "Biology"
+  },
+  {
+    "id": 263,
+    "question": "Which is the functional unit of kidney?",
+    "options": ["Nephron", "Neuron", "Alveoli", "Nephritis"],
+    "answer": "Nephron",
+    "category": "Biology"
+  },
+  {
+    "id": 264,
+    "question": "Which pigment gives green color to plants?",
+    "options": ["Chlorophyll", "Carotene", "Xanthophyll", "Anthocyanin"],
+    "answer": "Chlorophyll",
+    "category": "Biology"
+  },
+  {
+    "id": 265,
+    "question": "Which part of the neuron receives impulses?",
+    "options": ["Dendrite", "Axon", "Synapse", "Cell body"],
+    "answer": "Dendrite",
+    "category": "Biology"
+  },
+  {
+    "id": 266,
+    "question": "Which part of the neuron transmits impulses?",
+    "options": ["Axon", "Dendrite", "Cell body", "Synapse"],
+    "answer": "Axon",
+    "category": "Biology"
+  },
+  {
+    "id": 267,
+    "question": "Which blood vessels connect arteries and veins?",
+    "options": ["Capillaries", "Venules", "Arterioles", "Lymph vessels"],
+    "answer": "Capillaries",
+    "category": "Biology"
+  },
+  {
+    "id": 268,
+    "question": "Which is the largest organ inside the human body?",
+    "options": ["Liver", "Lungs", "Heart", "Kidney"],
+    "answer": "Liver",
+    "category": "Biology"
+  },
+  {
+    "id": 269,
+    "question": "Which macronutrient is the main source of energy?",
+    "options": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+    "answer": "Carbohydrates",
+    "category": "Biology"
+  },
+  {
+    "id": 270,
+    "question": "Which macronutrient helps in tissue repair?",
+    "options": ["Proteins", "Carbohydrates", "Fats", "Vitamins"],
+    "answer": "Proteins",
+    "category": "Biology"
+  },
+  {
+    "id": 271,
+    "question": "Which macronutrient provides long-term energy storage?",
+    "options": ["Fats", "Proteins", "Carbohydrates", "Vitamins"],
+    "answer": "Fats",
+    "category": "Biology"
+  },
+  {
+    "id": 272,
+    "question": "Which hormone regulates the sleep-wake cycle?",
+    "options": ["Melatonin", "Insulin", "Adrenaline", "Thyroxine"],
+    "answer": "Melatonin",
+    "category": "Biology"
+  },
+  {
+    "id": 273,
+    "question": "Which part of the human ear controls balance?",
+    "options": ["Vestibular system", "Cochlea", "Eardrum", "Auditory nerve"],
+    "answer": "Vestibular system",
+    "category": "Biology"
+  },
+  {
+    "id": 274,
+    "question": "Which type of joint allows maximum movement?",
+    "options": ["Ball and socket", "Hinge", "Pivot", "Fixed"],
+    "answer": "Ball and socket",
+    "category": "Biology"
+  },
+  {
+    "id": 275,
+    "question": "Which blood component contains antibodies?",
+    "options": ["Plasma", "Red blood cells", "White blood cells", "Platelets"],
+    "answer": "Plasma",
+    "category": "Biology"
+  },
+  {
+    "id": 276,
+    "question": "Which macronutrient is composed of amino acids?",
+    "options": ["Proteins", "Carbohydrates", "Fats", "Vitamins"],
+    "answer": "Proteins",
+    "category": "Biology"
+  },
+  {
+    "id": 277,
+    "question": "Which plant tissue transports food?",
+    "options": ["Phloem", "Xylem", "Cambium", "Epidermis"],
+    "answer": "Phloem",
+    "category": "Biology"
+  },
+  {
+    "id": 278,
+    "question": "Which part of the cell controls genetic information?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi body"],
+    "answer": "Nucleus",
+    "category": "Biology"
+  },
+  {
+    "id": 279,
+    "question": "Which macronutrient is essential for enzyme production?",
+    "options": ["Proteins", "Carbohydrates", "Fats", "Vitamins"],
+    "answer": "Proteins",
+    "category": "Biology"
+  },
+  {
+    "id": 280,
+    "question": "Which vitamin helps in blood clotting?",
+    "options": ["Vitamin K", "Vitamin C", "Vitamin A", "Vitamin D"],
+    "answer": "Vitamin K",
+    "category": "Biology"
+  },
+  {
+    "id": 281,
+    "question": "Which human organ stores glycogen?",
+    "options": ["Liver", "Kidney", "Pancreas", "Spleen"],
+    "answer": "Liver",
+    "category": "Biology"
+  },
+  {
+    "id": 282,
+    "question": "Which plant part performs photosynthesis?",
+    "options": ["Leaves", "Roots", "Stem", "Flower"],
+    "answer": "Leaves",
+    "category": "Biology"
+  },
+  {
+    "id": 283,
+    "question": "Which blood cells are involved in allergic reactions?",
+    "options": ["Eosinophils", "Neutrophils", "Monocytes", "Lymphocytes"],
+    "answer": "Eosinophils",
+    "category": "Biology"
+  },
+  {
+    "id": 284,
+    "question": "Which is the longest bone in the human body?",
+    "options": ["Femur", "Humerus", "Tibia", "Fibula"],
+    "answer": "Femur",
+    "category": "Biology"
+  },
+  {
+    "id": 285,
+    "question": "Which gas do humans exhale in large amounts?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon dioxide",
+    "category": "Biology"
+  },
+  {
+    "id": 286,
+    "question": "Which macronutrient is main energy source during intense exercise?",
+    "options": ["Carbohydrates", "Fats", "Proteins", "Vitamins"],
+    "answer": "Carbohydrates",
+    "category": "Biology"
+  },
+  {
+    "id": 287,
+    "question": "Which vitamin deficiency causes beriberi?",
+    "options": ["Vitamin B1", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin B1",
+    "category": "Biology"
+  },
+  {
+    "id": 288,
+    "question": "Which human organ produces bile?",
+    "options": ["Liver", "Pancreas", "Gallbladder", "Kidney"],
+    "answer": "Liver",
+    "category": "Biology"
+  },
+  {
+    "id": 289,
+    "question": "Which part of the plant is responsible for absorption of water?",
+    "options": ["Root hairs", "Leaves", "Stem", "Flowers"],
+    "answer": "Root hairs",
+    "category": "Biology"
+  },
+  {
+    "id": 290,
+    "question": "Which hormone stimulates growth in humans?",
+    "options": ["Growth hormone", "Insulin", "Adrenaline", "Thyroxine"],
+    "answer": "Growth hormone",
+    "category": "Biology"
+  },
+  {
+    "id": 291,
+    "question": "Which cell division forms gametes?",
+    "options": ["Meiosis", "Mitosis", "Binary fission", "Budding"],
+    "answer": "Meiosis",
+    "category": "Biology"
+  },
+  {
+    "id": 292,
+    "question": "Which organelle contains chlorophyll?",
+    "options": ["Chloroplast", "Mitochondria", "Nucleus", "Golgi body"],
+    "answer": "Chloroplast",
+    "category": "Biology"
+  },
+  {
+    "id": 293,
+    "question": "Which human organ produces insulin?",
+    "options": ["Pancreas", "Liver", "Kidney", "Spleen"],
+    "answer": "Pancreas",
+    "category": "Biology"
+  },
+  {
+    "id": 294,
+    "question": "Which part of the brain controls heartbeat?",
+    "options": ["Medulla", "Cerebrum", "Cerebellum", "Hypothalamus"],
+    "answer": "Medulla",
+    "category": "Biology"
+  },
+  {
+    "id": 295,
+    "question": "Which macronutrient is essential for immune system function?",
+    "options": ["Proteins", "Carbohydrates", "Fats", "Vitamins"],
+    "answer": "Proteins",
+    "category": "Biology"
+  },
+  {
+    "id": 296,
+    "question": "Which plant part stores food in potatoes?",
+    "options": ["Tuber", "Root", "Stem", "Leaf"],
+    "answer": "Tuber",
+    "category": "Biology"
+  },
+  {
+    "id": 297,
+    "question": "Which vitamin deficiency causes pellagra?",
+    "options": ["Vitamin B3", "Vitamin B1", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin B3",
+    "category": "Biology"
+  },
+  {
+    "id": 298,
+    "question": "Which organ produces digestive enzymes and hormones?",
+    "options": ["Pancreas", "Liver", "Gallbladder", "Stomach"],
+    "answer": "Pancreas",
+    "category": "Biology"
+  },
+  {
+    "id": 299,
+    "question": "Which blood vessels have valves to prevent backflow?",
+    "options": ["Veins", "Arteries", "Capillaries", "Venules"],
+    "answer": "Veins",
+    "category": "Biology"
+  },
+  {
+    "id": 300,
+    "question": "Which is the powerhouse of the cell?",
+    "options": ["Mitochondria", "Nucleus", "Ribosome", "Chloroplast"],
+    "answer": "Mitochondria",
+    "category": "Biology"
+  }
+]
