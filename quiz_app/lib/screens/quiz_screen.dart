@@ -20,6 +20,8 @@ class _QuizScreenState extends State<QuizScreen> {
   bool isAnswered = false; // 🔥 NEW
   bool isCorrect = false; // 🔥 NEW
 
+  List<String> shuffledOptions = [];
+
   @override
   void initState() {
     super.initState();
@@ -30,6 +32,7 @@ class _QuizScreenState extends State<QuizScreen> {
     allQuestions = await QuestionService.loadQuestions();
 
     prepareQuestions(); // 🔥 ADD THIS
+    prepareOptions(); // ✅ ADD
 
     setState(() {
       isLoading = false;
@@ -49,6 +52,14 @@ class _QuizScreenState extends State<QuizScreen> {
     filteredQuestions.shuffle(); // 🎯 RANDOMIZE ONCE
 
     currentIndex = 0;
+
+    prepareOptions();
+  }
+
+  void prepareOptions(){
+    shuffledOptions = List.from(filteredQuestions[currentIndex].options);
+      shuffledOptions.shuffle(); // 🔥 THIS LINE WAS MISSING
+
   }
 
   List<String> getCategories() {
@@ -77,7 +88,7 @@ class _QuizScreenState extends State<QuizScreen> {
     final question = filteredQuestions[currentIndex];
 
     return Scaffold(
-      appBar: AppBar(title: Text("Quiz App"), backgroundColor: primaryBlue),
+      appBar: AppBar(title: Text("CSEB"), backgroundColor: primaryBlue),
 
       body: Column(
         children: [
@@ -101,6 +112,7 @@ class _QuizScreenState extends State<QuizScreen> {
                         isAnswered = false; // 🔥 NEW
 
                         prepareQuestions(); // 🔥 ADD THIS
+                        prepareOptions(); // ✅ ADD
                       });
                     },
                   ),
@@ -118,7 +130,7 @@ class _QuizScreenState extends State<QuizScreen> {
                   Text(question.question, style: TextStyle(fontSize: 18)),
                   SizedBox(height: 20),
 
-                  ...question.options.map((opt) {
+                  ...shuffledOptions.map((opt) {
                     final isSelected = selectedOption == opt;
 
                     return GestureDetector(
@@ -211,7 +223,10 @@ class _QuizScreenState extends State<QuizScreen> {
                         if (currentIndex < filteredQuestions.length - 1) {
                           currentIndex++;
                           selectedOption = null;
+                          
                           isAnswered = false;
+
+                          prepareOptions();
                         } else {
                           currentIndex =
                               filteredQuestions.length; // show finished
